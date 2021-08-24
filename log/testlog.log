@@ -1,0 +1,1040 @@
+2021-08-20 18:46:55,579 - ebanking -INFO - URL is Opened
+2021-08-20 18:46:55,832 - ebanking -INFO - Entered Username
+2021-08-20 18:46:55,903 - ebanking -INFO - Entered Password
+2021-08-20 18:46:57,220 - ebanking -INFO - Clicked Login
+2021-08-20 18:46:57,231 - ebanking -INFO - Test case is pass
+2021-08-23 16:13:22,275 - ebanking -INFO - URL is Opened
+2021-08-23 16:13:22,635 - ebanking -INFO - Entered Username
+2021-08-23 16:13:22,765 - ebanking -INFO - Entered Password
+2021-08-23 16:13:23,998 - ebanking -INFO - Clicked Login
+2021-08-23 16:13:24,016 - ebanking -INFO - Test case is pass
+2021-08-23 16:20:41,190 - ebanking -INFO - URL is Opened
+2021-08-23 16:20:41,579 - ebanking -INFO - Entered Username
+2021-08-23 16:20:41,709 - ebanking -INFO - Entered Password
+2021-08-23 16:20:43,187 - ebanking -INFO - Clicked Login
+2021-08-23 16:22:25,071 - ebanking -INFO - URL is Opened
+2021-08-23 16:22:25,486 - ebanking -INFO - Entered Username
+2021-08-23 16:22:25,588 - ebanking -INFO - Entered Password
+2021-08-23 16:22:27,116 - ebanking -INFO - Clicked Login
+2021-08-23 16:24:15,192 - ebanking -INFO - URL is Opened
+2021-08-23 16:24:15,585 - ebanking -INFO - Entered Username
+2021-08-23 16:24:15,696 - ebanking -INFO - Entered Password
+2021-08-23 16:24:17,230 - ebanking -INFO - Clicked Login
+2021-08-23 16:26:58,380 - ebanking -INFO - URL is Opened
+2021-08-23 16:26:58,799 - ebanking -INFO - Entered Username
+2021-08-23 16:26:58,921 - ebanking -INFO - Entered Password
+2021-08-23 16:27:00,970 - ebanking -INFO - Clicked Login
+2021-08-23 16:31:32,709 - ebanking -INFO - URL is Opened
+2021-08-23 16:31:33,315 - ebanking -INFO - Entered Username
+2021-08-23 16:31:33,425 - ebanking -INFO - Entered Password
+2021-08-23 16:31:34,974 - ebanking -INFO - Clicked Login
+2021-08-23 16:33:39,619 - ebanking -INFO - URL is Opened
+2021-08-23 16:33:40,189 - ebanking -INFO - Entered Username
+2021-08-23 16:33:40,310 - ebanking -INFO - Entered Password
+2021-08-23 16:33:42,358 - ebanking -INFO - Clicked Login
+2021-08-23 16:35:17,496 - ebanking -INFO - URL is Opened
+2021-08-23 16:35:17,895 - ebanking -INFO - Entered Username
+2021-08-23 16:35:18,042 - ebanking -INFO - Entered Password
+2021-08-23 16:35:19,433 - ebanking -INFO - Clicked Login
+2021-08-23 16:36:44,129 - ebanking -INFO - URL is Opened
+2021-08-23 16:36:44,654 - ebanking -INFO - Entered Username
+2021-08-23 16:36:44,764 - ebanking -INFO - Entered Password
+2021-08-23 16:36:46,465 - ebanking -INFO - Clicked Login
+2021-08-23 17:12:24,721 - ebanking -INFO - URL is Opened
+2021-08-23 17:13:59,131 - ebanking -INFO - URL is Opened
+2021-08-23 17:14:25,514 - ebanking -INFO - URL is Opened
+2021-08-23 17:16:52,360 - ebanking -INFO - URL is Opened
+2021-08-23 17:18:56,319 - ebanking -INFO - URL is Opened
+2021-08-23 17:39:40,263 - ebanking -INFO - URL is Opened
+2021-08-23 17:39:48,133 - ebanking -INFO - Login Passed
+2021-08-23 17:39:59,640 - ebanking -INFO - Login Passed
+2021-08-23 17:40:04,707 - ebanking -INFO - Login Passed
+2021-08-23 17:40:16,108 - ebanking -INFO - Login Passed
+2021-08-23 17:40:21,525 - ebanking -INFO - Login Passed
+2021-08-23 17:40:32,906 - ebanking -INFO - Login Passed
+2021-08-23 17:40:37,330 - ebanking -INFO - Login Passed
+2021-08-23 17:40:49,040 - ebanking -INFO - Login Passed
+2021-08-23 17:40:55,387 - ebanking -INFO - Login Passed
+2021-08-23 18:42:32,309 - ebanking -INFO - URL is Opened
+2021-08-23 18:42:56,138 - ebanking -INFO - URL is Opened
+2021-08-23 18:43:51,630 - ebanking -INFO - URL is Opened
+2021-08-23 18:45:33,818 - ebanking -INFO - URL is Opened
+2021-08-23 18:48:36,255 - ebanking -INFO - URL is Opened
+2021-08-23 18:49:14,961 - ebanking -INFO - URL is Opened
+2021-08-23 18:51:17,533 - ebanking -INFO - URL is Opened
+2021-08-23 18:52:58,083 - ebanking -INFO - URL is Opened
+2021-08-23 18:52:58,477 - ebanking -INFO - Username entered
+2021-08-23 18:52:58,606 - ebanking -INFO - Password entered
+2021-08-23 18:53:00,105 - ebanking -INFO - Click on login
+2021-08-23 18:53:00,113 - ebanking -INFO - Click on add new customer
+2021-08-23 18:56:20,909 - ebanking -INFO - URL is Opened
+2021-08-23 18:56:21,302 - ebanking -INFO - Username entered
+2021-08-23 18:56:21,410 - ebanking -INFO - Password entered
+2021-08-23 18:56:23,005 - ebanking -INFO - Click on login
+2021-08-23 18:57:02,463 - ebanking -INFO - URL is Opened
+2021-08-23 18:57:02,873 - ebanking -INFO - Username entered
+2021-08-23 18:57:02,988 - ebanking -INFO - Password entered
+2021-08-23 18:57:04,638 - ebanking -INFO - Click on login
+2021-08-23 18:58:13,572 - ebanking -INFO - URL is Opened
+2021-08-23 18:58:14,095 - ebanking -INFO - Username entered
+2021-08-23 18:58:14,202 - ebanking -INFO - Password entered
+2021-08-23 18:58:16,009 - ebanking -INFO - Click on login
+2021-08-23 19:03:22,390 - ebanking -INFO - URL is Opened
+2021-08-23 19:04:37,326 - ebanking -INFO - URL is Opened
+2021-08-23 19:04:37,730 - ebanking -INFO - Username entered
+2021-08-23 19:04:37,844 - ebanking -INFO - Password entered
+2021-08-23 19:04:39,500 - ebanking -INFO - Click on login
+2021-08-23 19:08:44,005 - ebanking -INFO - URL is Opened
+2021-08-23 19:10:37,729 - ebanking -INFO - URL is Opened
+2021-08-23 19:15:09,616 - ebanking -INFO - URL is Opened
+2021-08-23 19:16:04,420 - ebanking -INFO - URL is Opened
+2021-08-23 19:16:40,506 - ebanking -INFO - URL is Opened
+2021-08-23 19:16:40,760 - ebanking -INFO - Entered Username
+2021-08-23 19:16:40,831 - ebanking -INFO - Entered Password
+2021-08-23 19:16:41,974 - ebanking -INFO - Clicked Login
+2021-08-23 19:17:09,621 - ebanking -INFO - URL is Opened
+2021-08-23 19:18:56,889 - ebanking -INFO - URL is Opened
+2021-08-23 19:20:26,158 - ebanking -INFO - URL is Opened
+2021-08-23 19:28:44,506 - ebanking -INFO - URL is Opened
+2021-08-23 19:30:27,175 - ebanking -INFO - URL is Opened
+2021-08-23 19:30:59,682 - ebanking -INFO - URL is Opened
+2021-08-23 19:32:05,968 - ebanking -INFO - URL is Opened
+2021-08-23 19:33:42,497 - ebanking -INFO - URL is Opened
+2021-08-23 19:37:04,339 - ebanking -INFO - URL is Opened
+2021-08-23 19:37:41,551 - ebanking -INFO - URL is Opened
+2021-08-23 19:37:42,222 - ebanking -INFO - Username entered
+2021-08-23 19:37:42,292 - ebanking -INFO - Password entered
+2021-08-23 19:37:43,974 - ebanking -INFO - Click on login
+2021-08-23 19:37:44,423 - ebanking -INFO - Click on add new customer
+2021-08-23 19:37:47,614 - ebanking -INFO - Validation Started
+2021-08-23 19:37:48,316 - ebanking -INFO - Validation Started
+2021-08-23 19:37:48,859 - ebanking -INFO - Validation Started
+2021-08-23 19:37:49,287 - ebanking -INFO - Validation Started
+2021-08-23 19:37:49,701 - ebanking -INFO - Validation Started
+2021-08-23 19:37:50,090 - ebanking -INFO - Validation Started
+2021-08-23 19:37:50,481 - ebanking -INFO - Validation Started
+2021-08-23 19:37:50,871 - ebanking -INFO - Validation Started
+2021-08-23 19:37:51,255 - ebanking -INFO - Validation Started
+2021-08-23 19:39:19,537 - ebanking -INFO - URL is Opened
+2021-08-23 19:39:20,214 - ebanking -INFO - Username entered
+2021-08-23 19:39:20,280 - ebanking -INFO - Password entered
+2021-08-23 19:39:21,702 - ebanking -INFO - Click on login
+2021-08-23 19:39:22,158 - ebanking -INFO - Click on add new customer
+2021-08-23 19:39:25,330 - ebanking -INFO - Validation Started
+2021-08-23 19:39:26,079 - ebanking -INFO - Validation Started
+2021-08-23 19:45:31,606 - ebanking -INFO - URL is Opened
+2021-08-23 19:45:32,332 - ebanking -INFO - Username entered
+2021-08-23 19:45:32,397 - ebanking -INFO - Password entered
+2021-08-23 19:45:33,607 - ebanking -INFO - Click on login
+2021-08-23 19:45:34,084 - ebanking -INFO - Click on add new customer
+2021-08-23 19:45:37,272 - ebanking -INFO - Validation Started
+2021-08-23 19:45:39,426 - ebanking -INFO - Validation Started
+2021-08-23 19:46:15,383 - ebanking -INFO - URL is Opened
+2021-08-23 19:46:16,123 - ebanking -INFO - Username entered
+2021-08-23 19:46:16,204 - ebanking -INFO - Password entered
+2021-08-23 19:46:17,908 - ebanking -INFO - Click on login
+2021-08-23 19:46:18,375 - ebanking -INFO - Click on add new customer
+2021-08-23 19:46:21,562 - ebanking -INFO - Validation Started
+2021-08-23 19:46:23,387 - ebanking -INFO - Validation Started
+2021-08-23 19:59:48,125 - ebanking -INFO - URL is Opened
+2021-08-23 19:59:48,855 - ebanking -INFO - Username entered
+2021-08-23 19:59:48,915 - ebanking -INFO - Password entered
+2021-08-23 19:59:50,293 - ebanking -INFO - Click on login
+2021-08-23 19:59:54,254 - ebanking -INFO - Click on add new customer
+2021-08-23 19:59:54,254 - ebanking -INFO - Validation Started
+2021-08-23 20:00:21,970 - ebanking -INFO - URL is Opened
+2021-08-23 20:00:22,659 - ebanking -INFO - Username entered
+2021-08-23 20:00:22,725 - ebanking -INFO - Password entered
+2021-08-23 20:00:24,182 - ebanking -INFO - Click on login
+2021-08-23 20:00:28,185 - ebanking -INFO - Click on add new customer
+2021-08-23 20:00:28,186 - ebanking -INFO - Validation Started
+2021-08-23 20:01:26,989 - ebanking -INFO - URL is Opened
+2021-08-23 20:01:27,679 - ebanking -INFO - Username entered
+2021-08-23 20:01:27,752 - ebanking -INFO - Password entered
+2021-08-23 20:01:29,231 - ebanking -INFO - Click on login
+2021-08-23 20:01:33,525 - ebanking -INFO - Click on add new customer
+2021-08-23 20:01:33,525 - ebanking -INFO - Validation Started
+2021-08-23 20:01:38,232 - ebanking -INFO - Adding customer pass
+2021-08-23 20:02:48,879 - ebanking -INFO - URL is Opened
+2021-08-23 20:02:49,571 - ebanking -INFO - Username entered
+2021-08-23 20:02:49,643 - ebanking -INFO - Password entered
+2021-08-23 20:02:51,054 - ebanking -INFO - Click on login
+2021-08-23 20:02:54,701 - ebanking -INFO - Click on add new customer
+2021-08-23 20:02:54,701 - ebanking -INFO - Validation Started
+2021-08-23 20:27:01,755 - ebanking -INFO - URL is Opened
+2021-08-23 20:27:02,483 - ebanking -INFO - Username entered
+2021-08-23 20:27:02,548 - ebanking -INFO - Password entered
+2021-08-23 20:27:04,188 - ebanking -INFO - Click on login
+2021-08-23 20:27:08,192 - ebanking -INFO - Click on add new customer
+2021-08-23 20:27:08,192 - ebanking -INFO - Validation Started
+2021-08-23 20:29:38,109 - ebanking -INFO - URL is Opened
+2021-08-23 20:29:39,810 - ebanking -INFO - Username entered
+2021-08-23 20:29:39,940 - ebanking -INFO - Password entered
+2021-08-23 20:29:42,278 - ebanking -INFO - Click on login
+2021-08-23 20:29:46,661 - ebanking -INFO - Click on add new customer
+2021-08-23 20:29:46,662 - ebanking -INFO - Validation Started
+2021-08-23 20:29:52,287 - ebanking -INFO - Adding customer pass
+2021-08-23 20:30:43,381 - ebanking -INFO - URL is Opened
+2021-08-23 20:30:44,994 - ebanking -INFO - Username entered
+2021-08-23 20:30:45,105 - ebanking -INFO - Password entered
+2021-08-23 20:30:48,527 - ebanking -INFO - Click on login
+2021-08-23 20:30:52,849 - ebanking -INFO - Click on add new customer
+2021-08-23 20:30:52,850 - ebanking -INFO - Validation Started
+2021-08-23 20:30:58,299 - ebanking -INFO - Adding customer pass
+2021-08-23 20:32:26,645 - ebanking -INFO - URL is Opened
+2021-08-23 20:32:28,168 - ebanking -INFO - Username entered
+2021-08-23 20:32:28,324 - ebanking -INFO - Password entered
+2021-08-23 20:32:30,532 - ebanking -INFO - Click on login
+2021-08-23 20:32:34,185 - ebanking -INFO - Click on add new customer
+2021-08-23 20:32:34,185 - ebanking -INFO - Validation Started
+2021-08-23 20:32:40,427 - ebanking -INFO - Adding customer pass
+2021-08-23 20:33:48,049 - ebanking -INFO - URL is Opened
+2021-08-23 20:33:48,771 - ebanking -INFO - Username entered
+2021-08-23 20:33:48,835 - ebanking -INFO - Password entered
+2021-08-23 20:33:50,362 - ebanking -INFO - Click on login
+2021-08-23 20:33:54,310 - ebanking -INFO - Click on add new customer
+2021-08-23 20:33:54,310 - ebanking -INFO - Adding customer details
+2021-08-23 20:33:59,578 - ebanking -INFO - Validation Started
+2021-08-23 20:33:59,591 - ebanking -INFO - Adding customer pass
+2021-08-23 20:36:18,986 - ebanking -INFO - URL is Opened
+2021-08-23 20:36:19,668 - ebanking -INFO - Username entered
+2021-08-23 20:36:19,727 - ebanking -INFO - Password entered
+2021-08-23 20:36:21,705 - ebanking -INFO - Click on login
+2021-08-23 20:36:25,970 - ebanking -INFO - Click on add new customer
+2021-08-23 20:36:25,970 - ebanking -INFO - Adding customer details
+2021-08-23 20:36:31,731 - ebanking -INFO - Validation Started
+2021-08-23 20:36:31,745 - ebanking -INFO - Adding customer done
+2021-08-23 20:39:51,834 - ebanking -INFO - URL is Opened
+2021-08-23 20:39:52,480 - ebanking -INFO - Username entered
+2021-08-23 20:39:52,544 - ebanking -INFO - Password entered
+2021-08-23 20:39:53,971 - ebanking -INFO - Click on login
+2021-08-23 20:39:57,988 - ebanking -INFO - Click on add new customer
+2021-08-23 20:39:57,988 - ebanking -INFO - Adding customer details
+2021-08-23 20:40:05,902 - ebanking -INFO - Validation Started
+2021-08-23 20:40:05,909 - ebanking -INFO - Adding customer done
+2021-08-23 20:40:55,024 - ebanking -INFO - URL is Opened
+2021-08-23 20:40:55,666 - ebanking -INFO - Username entered
+2021-08-23 20:40:55,725 - ebanking -INFO - Password entered
+2021-08-23 20:40:57,127 - ebanking -INFO - Click on login
+2021-08-23 20:41:01,064 - ebanking -INFO - Click on add new customer
+2021-08-23 20:41:01,064 - ebanking -INFO - Adding customer details
+2021-08-23 20:41:08,706 - ebanking -INFO - Validation Started
+2021-08-23 20:41:08,719 - ebanking -INFO - Adding customer done
+2021-08-23 20:42:26,386 - ebanking -INFO - URL is Opened
+2021-08-23 20:42:27,043 - ebanking -INFO - Username entered
+2021-08-23 20:42:27,106 - ebanking -INFO - Password entered
+2021-08-23 20:42:30,776 - ebanking -INFO - Click on login
+2021-08-23 20:42:35,921 - ebanking -INFO - Click on add new customer
+2021-08-23 20:42:35,922 - ebanking -INFO - Adding customer details
+2021-08-23 20:42:44,727 - ebanking -INFO - Validation Started
+2021-08-23 20:42:44,742 - ebanking -INFO - Adding customer done
+2021-08-23 20:42:44,957 - ebanking -INFO - Click on add new customer
+2021-08-23 20:42:44,957 - ebanking -INFO - Adding customer details
+2021-08-23 20:42:52,656 - ebanking -INFO - Validation Started
+2021-08-23 20:42:52,665 - ebanking -INFO - Adding customer done
+2021-08-23 20:42:52,868 - ebanking -INFO - Click on add new customer
+2021-08-23 20:42:52,869 - ebanking -INFO - Adding customer details
+2021-08-23 20:43:00,808 - ebanking -INFO - Validation Started
+2021-08-23 20:43:00,817 - ebanking -INFO - Adding customer done
+2021-08-23 20:43:01,034 - ebanking -INFO - Click on add new customer
+2021-08-23 20:43:01,035 - ebanking -INFO - Adding customer details
+2021-08-23 20:43:08,672 - ebanking -INFO - Validation Started
+2021-08-23 20:43:08,681 - ebanking -INFO - Adding customer done
+2021-08-23 20:43:08,858 - ebanking -INFO - Click on add new customer
+2021-08-23 20:43:08,859 - ebanking -INFO - Adding customer details
+2021-08-23 20:43:16,526 - ebanking -INFO - Validation Started
+2021-08-23 20:43:16,534 - ebanking -INFO - Adding customer done
+2021-08-23 20:43:16,705 - ebanking -INFO - Click on add new customer
+2021-08-23 20:43:16,706 - ebanking -INFO - Adding customer details
+2021-08-23 20:43:24,641 - ebanking -INFO - Validation Started
+2021-08-23 20:43:24,650 - ebanking -INFO - Adding customer done
+2021-08-23 20:43:24,871 - ebanking -INFO - Click on add new customer
+2021-08-23 20:43:24,871 - ebanking -INFO - Adding customer details
+2021-08-23 20:43:32,553 - ebanking -INFO - Validation Started
+2021-08-23 20:43:32,562 - ebanking -INFO - Adding customer done
+2021-08-23 20:43:32,723 - ebanking -INFO - Click on add new customer
+2021-08-23 20:43:32,723 - ebanking -INFO - Adding customer details
+2021-08-23 20:43:40,356 - ebanking -INFO - Validation Started
+2021-08-23 20:43:40,363 - ebanking -INFO - Adding customer done
+2021-08-23 20:43:40,512 - ebanking -INFO - Click on add new customer
+2021-08-23 20:43:40,512 - ebanking -INFO - Adding customer details
+2021-08-23 20:43:48,202 - ebanking -INFO - Validation Started
+2021-08-23 20:43:48,210 - ebanking -INFO - Adding customer done
+2021-08-23 20:43:48,360 - ebanking -INFO - Click on add new customer
+2021-08-23 20:43:48,360 - ebanking -INFO - Adding customer details
+2021-08-23 20:44:57,555 - ebanking -INFO - Validation Started
+2021-08-23 20:44:57,564 - ebanking -INFO - Adding customer done
+2021-08-23 20:46:59,404 - ebanking -INFO - URL is Opened
+2021-08-23 20:47:00,160 - ebanking -INFO - Username entered
+2021-08-23 20:47:00,236 - ebanking -INFO - Password entered
+2021-08-23 20:47:02,245 - ebanking -INFO - Click on login
+2021-08-23 20:47:06,424 - ebanking -INFO - Click on add new customer
+2021-08-23 20:47:06,424 - ebanking -INFO - Adding customer details
+2021-08-23 20:47:16,029 - ebanking -INFO - Validation Started
+2021-08-23 20:47:54,584 - ebanking -INFO - URL is Opened
+2021-08-23 20:47:55,248 - ebanking -INFO - Username entered
+2021-08-23 20:47:55,311 - ebanking -INFO - Password entered
+2021-08-23 20:47:57,024 - ebanking -INFO - Click on login
+2021-08-23 20:48:01,066 - ebanking -INFO - Click on add new customer
+2021-08-23 20:48:01,066 - ebanking -INFO - Adding customer details
+2021-08-23 20:48:08,756 - ebanking -INFO - Validation Started
+2021-08-23 20:48:08,763 - ebanking -INFO - Adding customer done
+2021-08-23 20:48:09,037 - ebanking -INFO - Click on add new customer
+2021-08-23 20:48:09,038 - ebanking -INFO - Adding customer details
+2021-08-23 20:48:17,190 - ebanking -INFO - Validation Started
+2021-08-23 20:48:17,200 - ebanking -INFO - Adding customer done
+2021-08-23 20:48:17,426 - ebanking -INFO - Click on add new customer
+2021-08-23 20:48:17,426 - ebanking -INFO - Adding customer details
+2021-08-23 20:48:27,848 - ebanking -INFO - Validation Started
+2021-08-23 20:48:27,857 - ebanking -INFO - Adding customer done
+2021-08-23 20:48:28,059 - ebanking -INFO - Click on add new customer
+2021-08-23 20:48:28,060 - ebanking -INFO - Adding customer details
+2021-08-23 20:48:36,923 - ebanking -INFO - Validation Started
+2021-08-23 20:48:36,934 - ebanking -INFO - Adding customer done
+2021-08-23 20:48:37,117 - ebanking -INFO - Click on add new customer
+2021-08-23 20:48:37,117 - ebanking -INFO - Adding customer details
+2021-08-23 20:48:45,594 - ebanking -INFO - Validation Started
+2021-08-23 20:48:45,603 - ebanking -INFO - Adding customer done
+2021-08-23 20:48:45,771 - ebanking -INFO - Click on add new customer
+2021-08-23 20:48:45,771 - ebanking -INFO - Adding customer details
+2021-08-23 20:48:54,307 - ebanking -INFO - Validation Started
+2021-08-23 20:48:54,315 - ebanking -INFO - Adding customer done
+2021-08-23 20:48:54,489 - ebanking -INFO - Click on add new customer
+2021-08-23 20:48:54,489 - ebanking -INFO - Adding customer details
+2021-08-23 20:49:02,327 - ebanking -INFO - Validation Started
+2021-08-23 20:49:02,336 - ebanking -INFO - Adding customer done
+2021-08-23 20:49:02,514 - ebanking -INFO - Click on add new customer
+2021-08-23 20:49:02,515 - ebanking -INFO - Adding customer details
+2021-08-23 20:49:09,565 - ebanking -INFO - Validation Started
+2021-08-23 20:50:10,131 - ebanking -INFO - URL is Opened
+2021-08-23 20:50:35,066 - ebanking -INFO - URL is Opened
+2021-08-23 20:50:58,380 - ebanking -INFO - URL is Opened
+2021-08-23 20:52:19,841 - ebanking -INFO - URL is Opened
+2021-08-23 20:52:55,462 - ebanking -INFO - URL is Opened
+2021-08-23 20:52:56,119 - ebanking -INFO - Username entered
+2021-08-23 20:52:56,182 - ebanking -INFO - Password entered
+2021-08-23 20:52:57,303 - ebanking -INFO - Click on login
+2021-08-23 20:53:01,332 - ebanking -INFO - Click on add new customer
+2021-08-23 20:53:01,332 - ebanking -INFO - Adding customer details
+2021-08-23 20:53:08,276 - ebanking -INFO - Validation Started
+2021-08-23 20:53:57,373 - ebanking -INFO - URL is Opened
+2021-08-23 20:53:58,041 - ebanking -INFO - Username entered
+2021-08-23 20:53:58,114 - ebanking -INFO - Password entered
+2021-08-23 20:54:01,601 - ebanking -INFO - Click on login
+2021-08-23 20:54:05,804 - ebanking -INFO - Click on add new customer
+2021-08-23 20:54:05,804 - ebanking -INFO - Adding customer details
+2021-08-23 20:54:44,201 - ebanking -INFO - Validation Started
+2021-08-23 20:55:07,078 - ebanking -INFO - URL is Opened
+2021-08-23 20:55:07,733 - ebanking -INFO - Username entered
+2021-08-23 20:55:07,793 - ebanking -INFO - Password entered
+2021-08-23 20:55:12,785 - ebanking -INFO - Click on login
+2021-08-23 20:55:17,009 - ebanking -INFO - Click on add new customer
+2021-08-23 20:55:17,010 - ebanking -INFO - Adding customer details
+2021-08-23 20:55:24,721 - ebanking -INFO - Validation Started
+2021-08-23 20:55:24,734 - ebanking -INFO - Adding customer done
+2021-08-23 20:55:24,977 - ebanking -INFO - Click on add new customer
+2021-08-23 20:55:24,978 - ebanking -INFO - Adding customer details
+2021-08-23 20:55:32,630 - ebanking -INFO - Validation Started
+2021-08-23 20:55:32,638 - ebanking -INFO - Adding customer done
+2021-08-23 20:55:32,831 - ebanking -INFO - Click on add new customer
+2021-08-23 20:55:32,831 - ebanking -INFO - Adding customer details
+2021-08-23 20:55:40,465 - ebanking -INFO - Validation Started
+2021-08-23 20:55:40,474 - ebanking -INFO - Adding customer done
+2021-08-23 20:55:40,662 - ebanking -INFO - Click on add new customer
+2021-08-23 20:55:40,663 - ebanking -INFO - Adding customer details
+2021-08-23 20:55:48,315 - ebanking -INFO - Validation Started
+2021-08-23 20:55:48,324 - ebanking -INFO - Adding customer done
+2021-08-23 20:55:48,502 - ebanking -INFO - Click on add new customer
+2021-08-23 20:55:48,502 - ebanking -INFO - Adding customer details
+2021-08-23 20:55:56,066 - ebanking -INFO - Validation Started
+2021-08-23 20:55:56,075 - ebanking -INFO - Adding customer done
+2021-08-23 20:55:56,265 - ebanking -INFO - Click on add new customer
+2021-08-23 20:55:56,266 - ebanking -INFO - Adding customer details
+2021-08-23 20:56:03,908 - ebanking -INFO - Validation Started
+2021-08-23 20:56:03,917 - ebanking -INFO - Adding customer done
+2021-08-23 20:56:04,073 - ebanking -INFO - Click on add new customer
+2021-08-23 20:56:04,074 - ebanking -INFO - Adding customer details
+2021-08-23 20:56:10,560 - ebanking -INFO - Validation Started
+2021-08-23 20:57:12,219 - ebanking -INFO - URL is Opened
+2021-08-23 20:57:12,978 - ebanking -INFO - Username entered
+2021-08-23 20:57:13,039 - ebanking -INFO - Password entered
+2021-08-23 20:57:15,149 - ebanking -INFO - Click on login
+2021-08-23 20:57:21,456 - ebanking -INFO - Click on add new customer
+2021-08-23 20:57:21,457 - ebanking -INFO - Adding customer details
+2021-08-23 20:57:30,815 - ebanking -INFO - Validation Started
+2021-08-23 20:57:30,827 - ebanking -INFO - Adding customer done
+2021-08-23 20:57:31,039 - ebanking -INFO - Click on add new customer
+2021-08-23 20:57:31,040 - ebanking -INFO - Adding customer details
+2021-08-23 20:57:38,951 - ebanking -INFO - Validation Started
+2021-08-23 20:57:38,960 - ebanking -INFO - Adding customer done
+2021-08-23 20:57:39,170 - ebanking -INFO - Click on add new customer
+2021-08-23 20:57:39,171 - ebanking -INFO - Adding customer details
+2021-08-23 20:57:46,789 - ebanking -INFO - Validation Started
+2021-08-23 20:57:46,798 - ebanking -INFO - Adding customer done
+2021-08-23 20:57:46,982 - ebanking -INFO - Click on add new customer
+2021-08-23 20:57:46,983 - ebanking -INFO - Adding customer details
+2021-08-23 20:57:54,591 - ebanking -INFO - Validation Started
+2021-08-23 20:57:54,600 - ebanking -INFO - Adding customer done
+2021-08-23 20:57:54,786 - ebanking -INFO - Click on add new customer
+2021-08-23 20:57:54,787 - ebanking -INFO - Adding customer details
+2021-08-23 20:58:02,715 - ebanking -INFO - Validation Started
+2021-08-23 20:58:02,723 - ebanking -INFO - Adding customer done
+2021-08-23 20:58:02,889 - ebanking -INFO - Click on add new customer
+2021-08-23 20:58:02,890 - ebanking -INFO - Adding customer details
+2021-08-23 20:58:11,314 - ebanking -INFO - Validation Started
+2021-08-23 20:58:11,322 - ebanking -INFO - Adding customer done
+2021-08-23 20:58:11,498 - ebanking -INFO - Click on add new customer
+2021-08-23 20:58:11,498 - ebanking -INFO - Adding customer details
+2021-08-23 20:58:18,005 - ebanking -INFO - Validation Started
+2021-08-23 20:59:34,915 - ebanking -INFO - URL is Opened
+2021-08-23 20:59:35,580 - ebanking -INFO - Username entered
+2021-08-23 20:59:35,645 - ebanking -INFO - Password entered
+2021-08-23 20:59:37,810 - ebanking -INFO - Click on login
+2021-08-23 20:59:41,472 - ebanking -INFO - Click on add new customer
+2021-08-23 20:59:41,473 - ebanking -INFO - Adding customer details
+2021-08-23 20:59:49,367 - ebanking -INFO - Validation Started
+2021-08-23 20:59:49,380 - ebanking -INFO - Adding customer done
+2021-08-23 20:59:49,611 - ebanking -INFO - Click on add new customer
+2021-08-23 20:59:49,611 - ebanking -INFO - Adding customer details
+2021-08-23 20:59:57,533 - ebanking -INFO - Validation Started
+2021-08-23 20:59:57,540 - ebanking -INFO - Adding customer done
+2021-08-23 20:59:57,757 - ebanking -INFO - Click on add new customer
+2021-08-23 20:59:57,757 - ebanking -INFO - Adding customer details
+2021-08-23 21:00:05,777 - ebanking -INFO - Validation Started
+2021-08-23 21:00:05,787 - ebanking -INFO - Adding customer done
+2021-08-23 21:00:05,996 - ebanking -INFO - Click on add new customer
+2021-08-23 21:00:05,997 - ebanking -INFO - Adding customer details
+2021-08-23 21:00:13,924 - ebanking -INFO - Validation Started
+2021-08-23 21:00:13,933 - ebanking -INFO - Adding customer done
+2021-08-23 21:00:14,124 - ebanking -INFO - Click on add new customer
+2021-08-23 21:00:14,124 - ebanking -INFO - Adding customer details
+2021-08-23 21:00:22,106 - ebanking -INFO - Validation Started
+2021-08-23 21:00:22,115 - ebanking -INFO - Adding customer done
+2021-08-23 21:01:16,225 - ebanking -INFO - URL is Opened
+2021-08-23 21:01:16,893 - ebanking -INFO - Username entered
+2021-08-23 21:01:16,954 - ebanking -INFO - Password entered
+2021-08-23 21:01:18,746 - ebanking -INFO - Click on login
+2021-08-23 21:01:22,593 - ebanking -INFO - Click on add new customer
+2021-08-23 21:01:22,593 - ebanking -INFO - Adding customer details
+2021-08-23 21:01:33,657 - ebanking -INFO - Validation Started
+2021-08-23 21:01:33,671 - ebanking -INFO - Adding customer done
+2021-08-23 21:02:54,283 - ebanking -INFO - URL is Opened
+2021-08-23 21:02:54,963 - ebanking -INFO - Username entered
+2021-08-23 21:02:55,023 - ebanking -INFO - Password entered
+2021-08-23 21:02:58,137 - ebanking -INFO - Click on login
+2021-08-23 21:03:01,945 - ebanking -INFO - Click on add new customer
+2021-08-23 21:03:01,945 - ebanking -INFO - Adding customer details
+2021-08-23 21:03:10,649 - ebanking -INFO - Validation Started
+2021-08-23 21:03:10,660 - ebanking -INFO - Adding customer done
+2021-08-23 21:03:58,722 - ebanking -INFO - URL is Opened
+2021-08-23 21:03:59,367 - ebanking -INFO - Username entered
+2021-08-23 21:03:59,433 - ebanking -INFO - Password entered
+2021-08-23 21:04:01,049 - ebanking -INFO - Click on login
+2021-08-23 21:04:05,559 - ebanking -INFO - Click on add new customer
+2021-08-23 21:04:05,560 - ebanking -INFO - Adding customer details
+2021-08-23 21:04:13,572 - ebanking -INFO - Validation Started
+2021-08-23 21:04:13,585 - ebanking -INFO - Adding customer done
+2021-08-23 21:04:58,669 - ebanking -INFO - URL is Opened
+2021-08-23 21:04:59,461 - ebanking -INFO - Username entered
+2021-08-23 21:04:59,532 - ebanking -INFO - Password entered
+2021-08-23 21:05:01,475 - ebanking -INFO - Click on login
+2021-08-23 21:05:05,471 - ebanking -INFO - Click on add new customer
+2021-08-23 21:05:05,471 - ebanking -INFO - Adding customer details
+2021-08-23 21:05:13,763 - ebanking -INFO - Validation Started
+2021-08-23 21:06:00,814 - ebanking -INFO - URL is Opened
+2021-08-23 21:06:02,329 - ebanking -INFO - Username entered
+2021-08-23 21:06:02,458 - ebanking -INFO - Password entered
+2021-08-23 21:06:04,398 - ebanking -INFO - Click on login
+2021-08-23 21:06:08,405 - ebanking -INFO - Click on add new customer
+2021-08-23 21:06:08,407 - ebanking -INFO - Adding customer details
+2021-08-23 21:06:18,010 - ebanking -INFO - Validation Started
+2021-08-23 21:06:18,024 - ebanking -INFO - Adding customer done
+2021-08-24 13:46:52,113 - ebanking -INFO - URL is Opened
+2021-08-24 13:46:52,895 - ebanking -INFO - Username entered
+2021-08-24 13:46:52,962 - ebanking -INFO - Password entered
+2021-08-24 13:46:55,141 - ebanking -INFO - Click on login
+2021-08-24 13:46:58,903 - ebanking -INFO - Click on add new customer
+2021-08-24 13:46:58,904 - ebanking -INFO - Adding customer details
+2021-08-24 13:47:06,881 - ebanking -INFO - Validation Started
+2021-08-24 13:47:06,904 - ebanking -INFO - Adding customer done
+2021-08-24 13:58:20,918 - ebanking -INFO - URL is Opened
+2021-08-24 13:58:21,740 - ebanking -INFO - Username entered
+2021-08-24 13:58:21,800 - ebanking -INFO - Password entered
+2021-08-24 13:58:23,728 - ebanking -INFO - Click on login
+2021-08-24 13:58:27,759 - ebanking -INFO - Click on add new customer
+2021-08-24 13:58:27,759 - ebanking -INFO - Adding customer details
+2021-08-24 13:58:36,136 - ebanking -INFO - Validation Started
+2021-08-24 13:58:36,157 - ebanking -INFO - Adding customer done
+2021-08-24 14:00:28,205 - ebanking -INFO - URL is Opened
+2021-08-24 14:00:28,917 - ebanking -INFO - Username entered
+2021-08-24 14:00:28,984 - ebanking -INFO - Password entered
+2021-08-24 14:00:30,933 - ebanking -INFO - Click on login
+2021-08-24 14:00:34,623 - ebanking -INFO - Click on add new customer
+2021-08-24 14:00:34,624 - ebanking -INFO - Adding customer details
+2021-08-24 14:00:41,846 - ebanking -INFO - Validation Started
+2021-08-24 14:01:04,315 - ebanking -INFO - URL is Opened
+2021-08-24 14:01:05,022 - ebanking -INFO - Username entered
+2021-08-24 14:01:05,092 - ebanking -INFO - Password entered
+2021-08-24 14:01:06,781 - ebanking -INFO - Click on login
+2021-08-24 14:01:10,787 - ebanking -INFO - Click on add new customer
+2021-08-24 14:01:10,787 - ebanking -INFO - Adding customer details
+2021-08-24 14:01:18,776 - ebanking -INFO - Validation Started
+2021-08-24 14:01:18,791 - ebanking -INFO - Adding customer done
+2021-08-24 14:02:06,021 - ebanking -INFO - URL is Opened
+2021-08-24 14:02:06,755 - ebanking -INFO - Username entered
+2021-08-24 14:02:06,820 - ebanking -INFO - Password entered
+2021-08-24 14:02:08,697 - ebanking -INFO - Click on login
+2021-08-24 14:02:12,395 - ebanking -INFO - Click on add new customer
+2021-08-24 14:02:12,395 - ebanking -INFO - Adding customer details
+2021-08-24 14:02:20,408 - ebanking -INFO - Validation Started
+2021-08-24 14:02:20,423 - ebanking -INFO - Adding customer done
+2021-08-24 14:04:16,989 - ebanking -INFO - URL is Opened
+2021-08-24 14:04:17,699 - ebanking -INFO - Username entered
+2021-08-24 14:04:17,766 - ebanking -INFO - Password entered
+2021-08-24 14:04:19,612 - ebanking -INFO - Click on login
+2021-08-24 14:04:23,316 - ebanking -INFO - Click on add new customer
+2021-08-24 14:04:23,317 - ebanking -INFO - Adding customer details
+2021-08-24 14:04:31,305 - ebanking -INFO - Validation Started
+2021-08-24 14:04:31,327 - ebanking -INFO - Adding customer done
+2021-08-24 14:05:02,542 - ebanking -INFO - URL is Opened
+2021-08-24 14:05:03,231 - ebanking -INFO - Username entered
+2021-08-24 14:05:03,289 - ebanking -INFO - Password entered
+2021-08-24 14:05:04,903 - ebanking -INFO - Click on login
+2021-08-24 14:05:08,901 - ebanking -INFO - Click on add new customer
+2021-08-24 14:05:08,901 - ebanking -INFO - Adding customer details
+2021-08-24 14:05:16,784 - ebanking -INFO - Validation Started
+2021-08-24 14:05:16,802 - ebanking -INFO - Adding customer done
+2021-08-24 14:05:17,012 - ebanking -INFO - Click on add new customer
+2021-08-24 14:05:17,013 - ebanking -INFO - Adding customer details
+2021-08-24 14:05:24,890 - ebanking -INFO - Validation Started
+2021-08-24 14:05:24,900 - ebanking -INFO - Adding customer done
+2021-08-24 14:05:25,113 - ebanking -INFO - Click on add new customer
+2021-08-24 14:05:25,114 - ebanking -INFO - Adding customer details
+2021-08-24 14:05:33,052 - ebanking -INFO - Validation Started
+2021-08-24 14:05:33,064 - ebanking -INFO - Adding customer done
+2021-08-24 14:05:33,248 - ebanking -INFO - Click on add new customer
+2021-08-24 14:05:33,248 - ebanking -INFO - Adding customer details
+2021-08-24 14:05:39,902 - ebanking -INFO - Validation Started
+2021-08-24 14:08:29,512 - ebanking -INFO - URL is Opened
+2021-08-24 14:08:30,315 - ebanking -INFO - Username entered
+2021-08-24 14:08:30,384 - ebanking -INFO - Password entered
+2021-08-24 14:08:32,254 - ebanking -INFO - Click on login
+2021-08-24 14:08:35,938 - ebanking -INFO - Click on add new customer
+2021-08-24 14:08:35,939 - ebanking -INFO - Adding customer details
+2021-08-24 14:08:43,958 - ebanking -INFO - Validation Started
+2021-08-24 14:08:43,973 - ebanking -INFO - Adding customer done
+2021-08-24 14:08:44,177 - ebanking -INFO - Click on add new customer
+2021-08-24 14:08:44,178 - ebanking -INFO - Adding customer details
+2021-08-24 14:08:51,292 - ebanking -INFO - Validation Started
+2021-08-24 14:11:07,290 - ebanking -INFO - URL is Opened
+2021-08-24 14:11:08,057 - ebanking -INFO - Username entered
+2021-08-24 14:11:08,124 - ebanking -INFO - Password entered
+2021-08-24 14:11:10,324 - ebanking -INFO - Click on login
+2021-08-24 14:11:14,413 - ebanking -INFO - Click on add new customer
+2021-08-24 14:11:14,413 - ebanking -INFO - Adding customer details
+2021-08-24 14:11:22,650 - ebanking -INFO - Validation Started
+2021-08-24 14:11:22,673 - ebanking -INFO - Adding customer done
+2021-08-24 14:11:22,886 - ebanking -INFO - Click on add new customer
+2021-08-24 14:11:22,886 - ebanking -INFO - Adding customer details
+2021-08-24 14:11:30,886 - ebanking -INFO - Validation Started
+2021-08-24 14:11:30,897 - ebanking -INFO - Adding customer done
+2021-08-24 14:11:57,934 - ebanking -INFO - URL is Opened
+2021-08-24 14:11:58,630 - ebanking -INFO - Username entered
+2021-08-24 14:11:58,688 - ebanking -INFO - Password entered
+2021-08-24 14:12:00,355 - ebanking -INFO - Click on login
+2021-08-24 14:12:04,346 - ebanking -INFO - Click on add new customer
+2021-08-24 14:12:04,347 - ebanking -INFO - Adding customer details
+2021-08-24 14:12:12,527 - ebanking -INFO - Validation Started
+2021-08-24 14:12:12,549 - ebanking -INFO - Adding customer done
+2021-08-24 14:12:12,746 - ebanking -INFO - Click on add new customer
+2021-08-24 14:12:12,747 - ebanking -INFO - Adding customer details
+2021-08-24 14:12:20,626 - ebanking -INFO - Validation Started
+2021-08-24 14:12:20,637 - ebanking -INFO - Adding customer done
+2021-08-24 14:12:20,841 - ebanking -INFO - Click on add new customer
+2021-08-24 14:12:20,842 - ebanking -INFO - Adding customer details
+2021-08-24 14:12:28,941 - ebanking -INFO - Validation Started
+2021-08-24 14:12:28,951 - ebanking -INFO - Adding customer done
+2021-08-24 14:13:41,324 - ebanking -INFO - URL is Opened
+2021-08-24 14:13:42,049 - ebanking -INFO - Username entered
+2021-08-24 14:13:42,127 - ebanking -INFO - Password entered
+2021-08-24 14:13:43,762 - ebanking -INFO - Click on login
+2021-08-24 14:13:47,792 - ebanking -INFO - Click on add new customer
+2021-08-24 14:13:47,793 - ebanking -INFO - Adding customer details
+2021-08-24 14:13:55,648 - ebanking -INFO - Validation Started
+2021-08-24 14:13:55,671 - ebanking -INFO - Adding customer done
+2021-08-24 14:15:32,265 - ebanking -INFO - URL is Opened
+2021-08-24 14:15:59,924 - ebanking -INFO - URL is Opened
+2021-08-24 14:16:05,545 - ebanking -INFO - Login Passed
+2021-08-24 14:17:19,655 - ebanking -INFO - URL is Opened
+2021-08-24 14:17:25,912 - ebanking -INFO - Login Passed
+2021-08-24 14:17:35,744 - ebanking -INFO - Login Passed
+2021-08-24 14:17:46,313 - ebanking -INFO - Login Passed
+2021-08-24 14:17:51,774 - ebanking -INFO - Login Passed
+2021-08-24 14:17:57,338 - ebanking -INFO - Login Passed
+2021-08-24 14:18:01,804 - ebanking -INFO - Login Passed
+2021-08-24 14:18:12,081 - ebanking -INFO - Login Passed
+2021-08-24 14:18:16,540 - ebanking -INFO - Login Passed
+2021-08-24 14:18:26,682 - ebanking -INFO - Login Passed
+2021-08-24 14:21:16,544 - ebanking -INFO - URL is Opened
+2021-08-24 14:21:17,228 - ebanking -INFO - Username entered
+2021-08-24 14:21:17,293 - ebanking -INFO - Password entered
+2021-08-24 14:21:19,224 - ebanking -INFO - Click on login
+2021-08-24 14:21:22,914 - ebanking -INFO - Click on add new customer
+2021-08-24 14:21:22,915 - ebanking -INFO - Adding customer details
+2021-08-24 14:21:30,323 - ebanking -INFO - Validation Started
+2021-08-24 14:22:45,815 - ebanking -INFO - URL is Opened
+2021-08-24 14:22:46,532 - ebanking -INFO - Username entered
+2021-08-24 14:22:46,598 - ebanking -INFO - Password entered
+2021-08-24 14:22:48,401 - ebanking -INFO - Click on login
+2021-08-24 14:22:52,139 - ebanking -INFO - Click on add new customer
+2021-08-24 14:22:52,139 - ebanking -INFO - Adding customer details
+2021-08-24 14:23:00,153 - ebanking -INFO - Validation Started
+2021-08-24 14:23:00,164 - ebanking -INFO - Adding customer done
+2021-08-24 14:23:38,618 - ebanking -INFO - URL is Opened
+2021-08-24 14:23:39,321 - ebanking -INFO - Username entered
+2021-08-24 14:23:39,385 - ebanking -INFO - Password entered
+2021-08-24 14:23:41,294 - ebanking -INFO - Click on login
+2021-08-24 14:23:45,316 - ebanking -INFO - Click on add new customer
+2021-08-24 14:23:45,316 - ebanking -INFO - Adding customer details
+2021-08-24 14:23:53,462 - ebanking -INFO - Validation Started
+2021-08-24 14:23:53,474 - ebanking -INFO - Adding customer done
+2021-08-24 14:23:53,708 - ebanking -INFO - Click on add new customer
+2021-08-24 14:23:53,708 - ebanking -INFO - Adding customer details
+2021-08-24 14:24:01,726 - ebanking -INFO - Validation Started
+2021-08-24 14:24:01,737 - ebanking -INFO - Adding customer done
+2021-08-24 14:24:21,622 - ebanking -INFO - URL is Opened
+2021-08-24 14:24:22,356 - ebanking -INFO - Username entered
+2021-08-24 14:24:22,421 - ebanking -INFO - Password entered
+2021-08-24 14:24:24,097 - ebanking -INFO - Click on login
+2021-08-24 14:24:28,142 - ebanking -INFO - Click on add new customer
+2021-08-24 14:24:28,143 - ebanking -INFO - Adding customer details
+2021-08-24 14:24:36,204 - ebanking -INFO - Validation Started
+2021-08-24 14:24:36,216 - ebanking -INFO - Adding customer done
+2021-08-24 14:24:36,439 - ebanking -INFO - Click on add new customer
+2021-08-24 14:24:36,439 - ebanking -INFO - Adding customer details
+2021-08-24 14:24:44,393 - ebanking -INFO - Validation Started
+2021-08-24 14:24:44,401 - ebanking -INFO - Adding customer done
+2021-08-24 14:24:44,636 - ebanking -INFO - Click on add new customer
+2021-08-24 14:24:44,636 - ebanking -INFO - Adding customer details
+2021-08-24 14:24:52,504 - ebanking -INFO - Validation Started
+2021-08-24 14:24:52,514 - ebanking -INFO - Adding customer done
+2021-08-24 14:25:26,294 - ebanking -INFO - URL is Opened
+2021-08-24 14:25:26,988 - ebanking -INFO - Username entered
+2021-08-24 14:25:27,047 - ebanking -INFO - Password entered
+2021-08-24 14:25:28,676 - ebanking -INFO - Click on login
+2021-08-24 14:25:32,681 - ebanking -INFO - Click on add new customer
+2021-08-24 14:25:32,682 - ebanking -INFO - Adding customer details
+2021-08-24 14:25:40,640 - ebanking -INFO - Validation Started
+2021-08-24 14:25:40,656 - ebanking -INFO - Adding customer done
+2021-08-24 14:25:40,857 - ebanking -INFO - Click on add new customer
+2021-08-24 14:25:40,857 - ebanking -INFO - Adding customer details
+2021-08-24 14:25:48,708 - ebanking -INFO - Validation Started
+2021-08-24 14:25:48,718 - ebanking -INFO - Adding customer done
+2021-08-24 14:25:48,950 - ebanking -INFO - Click on add new customer
+2021-08-24 14:25:48,950 - ebanking -INFO - Adding customer details
+2021-08-24 14:25:56,947 - ebanking -INFO - Validation Started
+2021-08-24 14:25:56,955 - ebanking -INFO - Adding customer done
+2021-08-24 14:26:23,858 - ebanking -INFO - URL is Opened
+2021-08-24 14:26:24,566 - ebanking -INFO - Username entered
+2021-08-24 14:26:24,625 - ebanking -INFO - Password entered
+2021-08-24 14:26:26,305 - ebanking -INFO - Click on login
+2021-08-24 14:26:30,370 - ebanking -INFO - Click on add new customer
+2021-08-24 14:26:30,371 - ebanking -INFO - Adding customer details
+2021-08-24 14:26:38,632 - ebanking -INFO - Validation Started
+2021-08-24 14:26:38,646 - ebanking -INFO - Adding customer done
+2021-08-24 14:27:43,046 - ebanking -INFO - URL is Opened
+2021-08-24 14:27:43,745 - ebanking -INFO - Username entered
+2021-08-24 14:27:43,806 - ebanking -INFO - Password entered
+2021-08-24 14:27:45,146 - ebanking -INFO - Click on login
+2021-08-24 14:27:49,188 - ebanking -INFO - Click on add new customer
+2021-08-24 14:27:49,189 - ebanking -INFO - Adding customer details
+2021-08-24 14:27:57,025 - ebanking -INFO - Validation Started
+2021-08-24 14:27:57,041 - ebanking -INFO - Adding customer done
+2021-08-24 14:28:27,555 - ebanking -INFO - URL is Opened
+2021-08-24 14:28:28,230 - ebanking -INFO - Username entered
+2021-08-24 14:28:28,292 - ebanking -INFO - Password entered
+2021-08-24 14:28:30,497 - ebanking -INFO - Click on login
+2021-08-24 14:28:34,546 - ebanking -INFO - Click on add new customer
+2021-08-24 14:28:34,547 - ebanking -INFO - Adding customer details
+2021-08-24 14:28:42,499 - ebanking -INFO - Validation Started
+2021-08-24 14:29:42,417 - ebanking -INFO - URL is Opened
+2021-08-24 14:29:44,011 - ebanking -INFO - Username entered
+2021-08-24 14:29:44,136 - ebanking -INFO - Password entered
+2021-08-24 14:29:46,347 - ebanking -INFO - Click on login
+2021-08-24 14:29:50,700 - ebanking -INFO - Click on add new customer
+2021-08-24 14:29:50,701 - ebanking -INFO - Adding customer details
+2021-08-24 14:29:59,662 - ebanking -INFO - Validation Started
+2021-08-24 14:29:59,676 - ebanking -INFO - Adding customer done
+2021-08-24 14:30:51,788 - ebanking -INFO - URL is Opened
+2021-08-24 14:30:53,326 - ebanking -INFO - Username entered
+2021-08-24 14:30:53,455 - ebanking -INFO - Password entered
+2021-08-24 14:30:55,612 - ebanking -INFO - Click on login
+2021-08-24 14:31:00,128 - ebanking -INFO - Click on add new customer
+2021-08-24 14:31:00,129 - ebanking -INFO - Adding customer details
+2021-08-24 14:31:08,839 - ebanking -INFO - Validation Started
+2021-08-24 14:31:08,854 - ebanking -INFO - Adding customer done
+2021-08-24 14:32:21,455 - ebanking -INFO - URL is Opened
+2021-08-24 14:32:22,992 - ebanking -INFO - Username entered
+2021-08-24 14:32:23,116 - ebanking -INFO - Password entered
+2021-08-24 14:32:25,096 - ebanking -INFO - Click on login
+2021-08-24 14:32:29,468 - ebanking -INFO - Click on add new customer
+2021-08-24 14:32:29,469 - ebanking -INFO - Adding customer details
+2021-08-24 14:32:38,280 - ebanking -INFO - Validation Started
+2021-08-24 14:32:38,295 - ebanking -INFO - Adding customer done
+2021-08-24 14:36:36,328 - ebanking -INFO - URL is Opened
+2021-08-24 14:36:37,484 - ebanking -INFO - Username entered
+2021-08-24 14:36:37,635 - ebanking -INFO - Password entered
+2021-08-24 14:36:39,417 - ebanking -INFO - Click on login
+2021-08-24 14:36:43,874 - ebanking -INFO - Click on add new customer
+2021-08-24 14:36:43,875 - ebanking -INFO - Adding customer details
+2021-08-24 14:36:52,907 - ebanking -INFO - Validation Started
+2021-08-24 14:36:52,923 - ebanking -INFO - Adding customer done
+2021-08-24 14:39:07,903 - ebanking -INFO - URL is Opened
+2021-08-24 14:39:09,438 - ebanking -INFO - Username entered
+2021-08-24 14:39:09,557 - ebanking -INFO - Password entered
+2021-08-24 14:39:11,669 - ebanking -INFO - Click on login
+2021-08-24 14:39:15,766 - ebanking -INFO - Click on add new customer
+2021-08-24 14:39:15,767 - ebanking -INFO - Adding customer details
+2021-08-24 14:39:24,948 - ebanking -INFO - Validation Started
+2021-08-24 14:39:24,985 - ebanking -INFO - Adding customer done
+2021-08-24 14:39:42,084 - ebanking -INFO - URL is Opened
+2021-08-24 14:39:43,098 - ebanking -INFO - Username entered
+2021-08-24 14:39:43,217 - ebanking -INFO - Password entered
+2021-08-24 14:39:45,374 - ebanking -INFO - Click on login
+2021-08-24 14:39:49,615 - ebanking -INFO - Click on add new customer
+2021-08-24 14:39:49,616 - ebanking -INFO - Adding customer details
+2021-08-24 14:39:58,422 - ebanking -INFO - Validation Started
+2021-08-24 14:39:58,449 - ebanking -INFO - Adding customer done
+2021-08-24 14:40:37,577 - ebanking -INFO - URL is Opened
+2021-08-24 14:40:38,635 - ebanking -INFO - Username entered
+2021-08-24 14:40:38,744 - ebanking -INFO - Password entered
+2021-08-24 14:40:40,945 - ebanking -INFO - Click on login
+2021-08-24 14:40:45,143 - ebanking -INFO - Click on add new customer
+2021-08-24 14:40:45,143 - ebanking -INFO - Adding customer details
+2021-08-24 14:40:54,204 - ebanking -INFO - Validation Started
+2021-08-24 14:40:54,230 - ebanking -INFO - Adding customer done
+2021-08-24 14:41:21,434 - ebanking -INFO - URL is Opened
+2021-08-24 14:41:22,992 - ebanking -INFO - Username entered
+2021-08-24 14:41:23,110 - ebanking -INFO - Password entered
+2021-08-24 14:41:25,278 - ebanking -INFO - Click on login
+2021-08-24 14:41:29,884 - ebanking -INFO - Click on add new customer
+2021-08-24 14:41:29,885 - ebanking -INFO - Adding customer details
+2021-08-24 14:41:38,550 - ebanking -INFO - Validation Started
+2021-08-24 14:41:38,578 - ebanking -INFO - Adding customer done
+2021-08-24 14:42:06,217 - ebanking -INFO - URL is Opened
+2021-08-24 14:42:07,712 - ebanking -INFO - Username entered
+2021-08-24 14:42:07,841 - ebanking -INFO - Password entered
+2021-08-24 14:42:10,226 - ebanking -INFO - Click on login
+2021-08-24 14:42:14,316 - ebanking -INFO - Click on add new customer
+2021-08-24 14:42:14,316 - ebanking -INFO - Adding customer details
+2021-08-24 14:42:22,406 - ebanking -INFO - Validation Started
+2021-08-24 14:43:49,883 - ebanking -INFO - URL is Opened
+2021-08-24 14:43:51,453 - ebanking -INFO - Username entered
+2021-08-24 14:43:51,560 - ebanking -INFO - Password entered
+2021-08-24 14:43:53,570 - ebanking -INFO - Click on login
+2021-08-24 14:43:57,949 - ebanking -INFO - Click on add new customer
+2021-08-24 14:43:57,949 - ebanking -INFO - Adding customer details
+2021-08-24 14:44:46,983 - ebanking -INFO - URL is Opened
+2021-08-24 14:44:48,541 - ebanking -INFO - Username entered
+2021-08-24 14:44:48,674 - ebanking -INFO - Password entered
+2021-08-24 14:44:50,953 - ebanking -INFO - Click on login
+2021-08-24 14:44:54,951 - ebanking -INFO - Click on add new customer
+2021-08-24 14:44:54,952 - ebanking -INFO - Adding customer details
+2021-08-24 14:49:16,168 - ebanking -INFO - URL is Opened
+2021-08-24 14:49:16,385 - ebanking -INFO - URL is Opened
+2021-08-24 14:49:16,483 - ebanking -INFO - URL is Opened
+2021-08-24 14:49:17,069 - ebanking -INFO - Entered Username
+2021-08-24 14:49:17,274 - ebanking -INFO - Entered Password
+2021-08-24 14:49:19,315 - ebanking -INFO - Clicked Login
+2021-08-24 14:49:19,342 - ebanking -INFO - Test case is pass
+2021-08-24 14:50:25,381 - ebanking -INFO - URL is Opened
+2021-08-24 14:50:25,424 - ebanking -INFO - URL is Opened
+2021-08-24 14:50:28,958 - ebanking -INFO - URL is Opened
+2021-08-24 14:50:50,727 - ebanking -INFO - URL is Opened
+2021-08-24 14:50:50,969 - ebanking -INFO - URL is Opened
+2021-08-24 14:50:51,499 - ebanking -INFO - URL is Opened
+2021-08-24 14:50:51,965 - ebanking -INFO - Entered Username
+2021-08-24 14:50:52,159 - ebanking -INFO - Entered Password
+2021-08-24 14:50:54,111 - ebanking -INFO - Clicked Login
+2021-08-24 14:50:54,127 - ebanking -INFO - Test case is pass
+2021-08-24 14:51:33,632 - ebanking -INFO - URL is Opened
+2021-08-24 14:51:34,038 - ebanking -INFO - Entered Username
+2021-08-24 14:51:34,163 - ebanking -INFO - Entered Password
+2021-08-24 14:51:35,891 - ebanking -INFO - Clicked Login
+2021-08-24 14:51:35,904 - ebanking -INFO - Test case is pass
+2021-08-24 14:51:40,625 - ebanking -INFO - URL is Opened
+2021-08-24 14:51:48,125 - ebanking -INFO - Login Passed
+2021-08-24 14:51:58,434 - ebanking -INFO - Login Passed
+2021-08-24 14:52:09,207 - ebanking -INFO - Login Passed
+2021-08-24 14:52:14,570 - ebanking -INFO - Login Passed
+2021-08-24 14:52:20,579 - ebanking -INFO - Login Passed
+2021-08-24 14:52:25,320 - ebanking -INFO - Login Passed
+2021-08-24 14:52:36,713 - ebanking -INFO - Login Passed
+2021-08-24 14:52:41,590 - ebanking -INFO - Login Passed
+2021-08-24 14:52:52,858 - ebanking -INFO - Login Passed
+2021-08-24 14:52:59,619 - ebanking -INFO - URL is Opened
+2021-08-24 14:52:59,981 - ebanking -INFO - Username entered
+2021-08-24 14:53:00,098 - ebanking -INFO - Password entered
+2021-08-24 14:53:02,115 - ebanking -INFO - Click on login
+2021-08-24 14:53:05,945 - ebanking -INFO - Click on add new customer
+2021-08-24 14:53:05,945 - ebanking -INFO - Adding customer details
+2021-08-24 14:53:14,008 - ebanking -INFO - Validation Started
+2021-08-24 15:00:08,335 - ebanking -INFO - URL is Opened
+2021-08-24 15:00:08,722 - ebanking -INFO - Entered Username
+2021-08-24 15:00:08,869 - ebanking -INFO - Entered Password
+2021-08-24 15:00:10,488 - ebanking -INFO - Clicked Login
+2021-08-24 15:00:10,505 - ebanking -INFO - Test case is pass
+2021-08-24 15:00:15,886 - ebanking -INFO - URL is Opened
+2021-08-24 15:00:23,105 - ebanking -INFO - Login Passed
+2021-08-24 15:00:33,880 - ebanking -INFO - Login Passed
+2021-08-24 15:00:44,912 - ebanking -INFO - Login Passed
+2021-08-24 15:00:50,925 - ebanking -INFO - Login Passed
+2021-08-24 15:00:57,244 - ebanking -INFO - Login Passed
+2021-08-24 15:01:02,259 - ebanking -INFO - Login Passed
+2021-08-24 15:01:13,228 - ebanking -INFO - Login Passed
+2021-08-24 15:01:18,014 - ebanking -INFO - Login Passed
+2021-08-24 15:01:29,152 - ebanking -INFO - Login Passed
+2021-08-24 15:01:34,740 - ebanking -INFO - URL is Opened
+2021-08-24 15:01:35,087 - ebanking -INFO - Username entered
+2021-08-24 15:01:35,192 - ebanking -INFO - Password entered
+2021-08-24 15:01:37,282 - ebanking -INFO - Click on login
+2021-08-24 15:01:41,164 - ebanking -INFO - Click on add new customer
+2021-08-24 15:01:41,165 - ebanking -INFO - Adding customer details
+2021-08-24 15:01:49,938 - ebanking -INFO - Validation Started
+2021-08-24 15:01:49,968 - ebanking -INFO - Adding customer done
+2021-08-24 15:01:53,334 - ebanking -INFO - Click on add new customer
+2021-08-24 15:01:53,335 - ebanking -INFO - Adding customer details
+2021-08-24 15:02:02,850 - ebanking -INFO - Validation Started
+2021-08-24 15:02:02,867 - ebanking -INFO - Adding customer done
+2021-08-24 15:02:06,190 - ebanking -INFO - Click on add new customer
+2021-08-24 15:02:06,190 - ebanking -INFO - Adding customer details
+2021-08-24 15:02:14,829 - ebanking -INFO - Validation Started
+2021-08-24 15:02:14,847 - ebanking -INFO - Adding customer done
+2021-08-24 15:15:01,930 - ebanking -INFO - URL is Opened
+2021-08-24 15:15:02,303 - ebanking -INFO - Entered Username
+2021-08-24 15:15:02,422 - ebanking -INFO - Entered Password
+2021-08-24 15:15:05,399 - ebanking -INFO - Clicked Login
+2021-08-24 15:15:05,414 - ebanking -INFO - Test case is pass
+2021-08-24 15:15:12,683 - ebanking -INFO - URL is Opened
+2021-08-24 15:15:28,133 - ebanking -INFO - Login Passed
+2021-08-24 15:15:36,428 - ebanking -INFO - URL is Opened
+2021-08-24 15:15:36,834 - ebanking -INFO - Username entered
+2021-08-24 15:15:36,973 - ebanking -INFO - Password entered
+2021-08-24 15:15:39,368 - ebanking -INFO - Click on login
+2021-08-24 15:15:43,810 - ebanking -INFO - Click on add new customer
+2021-08-24 15:15:43,810 - ebanking -INFO - Adding customer details
+2021-08-24 15:15:52,606 - ebanking -INFO - Validation Started
+2021-08-24 15:15:52,649 - ebanking -INFO - Adding customer done
+2021-08-24 15:15:55,997 - ebanking -INFO - Click on add new customer
+2021-08-24 15:15:55,999 - ebanking -INFO - Adding customer details
+2021-08-24 15:16:04,747 - ebanking -INFO - Validation Started
+2021-08-24 15:16:04,767 - ebanking -INFO - Adding customer done
+2021-08-24 15:16:51,943 - ebanking -INFO - URL is Opened
+2021-08-24 15:16:52,312 - ebanking -INFO - Entered Username
+2021-08-24 15:16:52,430 - ebanking -INFO - Entered Password
+2021-08-24 15:16:54,136 - ebanking -INFO - Clicked Login
+2021-08-24 15:16:54,152 - ebanking -INFO - Test case is pass
+2021-08-24 15:16:59,310 - ebanking -INFO - URL is Opened
+2021-08-24 15:17:06,172 - ebanking -INFO - Login Passed
+2021-08-24 15:17:15,926 - ebanking -INFO - Login Passed
+2021-08-24 15:17:26,206 - ebanking -INFO - Login Passed
+2021-08-24 15:17:32,017 - ebanking -INFO - Login Passed
+2021-08-24 15:17:37,416 - ebanking -INFO - Login Passed
+2021-08-24 15:17:42,312 - ebanking -INFO - Login Passed
+2021-08-24 15:17:53,551 - ebanking -INFO - Login Passed
+2021-08-24 15:17:57,914 - ebanking -INFO - Login Passed
+2021-08-24 15:18:08,386 - ebanking -INFO - Login Passed
+2021-08-24 15:18:13,809 - ebanking -INFO - URL is Opened
+2021-08-24 15:18:14,161 - ebanking -INFO - Username entered
+2021-08-24 15:18:14,278 - ebanking -INFO - Password entered
+2021-08-24 15:18:15,722 - ebanking -INFO - Click on login
+2021-08-24 15:18:20,091 - ebanking -INFO - Click on add new customer
+2021-08-24 15:18:20,092 - ebanking -INFO - Adding customer details
+2021-08-24 15:18:27,835 - ebanking -INFO - Validation Started
+2021-08-24 15:19:37,574 - ebanking -INFO - URL is Opened
+2021-08-24 15:19:37,939 - ebanking -INFO - Entered Username
+2021-08-24 15:19:38,059 - ebanking -INFO - Entered Password
+2021-08-24 15:19:40,488 - ebanking -INFO - Clicked Login
+2021-08-24 15:19:40,505 - ebanking -INFO - Test case is pass
+2021-08-24 15:19:46,204 - ebanking -INFO - URL is Opened
+2021-08-24 15:19:53,310 - ebanking -INFO - Login Passed
+2021-08-24 15:20:04,121 - ebanking -INFO - Login Passed
+2021-08-24 15:20:16,000 - ebanking -INFO - Login Passed
+2021-08-24 15:20:21,579 - ebanking -INFO - Login Passed
+2021-08-24 15:20:27,185 - ebanking -INFO - Login Passed
+2021-08-24 15:20:32,075 - ebanking -INFO - Login Passed
+2021-08-24 15:20:43,001 - ebanking -INFO - Login Passed
+2021-08-24 15:20:47,728 - ebanking -INFO - Login Passed
+2021-08-24 15:20:58,433 - ebanking -INFO - Login Passed
+2021-08-24 15:21:03,707 - ebanking -INFO - URL is Opened
+2021-08-24 15:21:04,038 - ebanking -INFO - Username entered
+2021-08-24 15:21:04,155 - ebanking -INFO - Password entered
+2021-08-24 15:21:06,152 - ebanking -INFO - Click on login
+2021-08-24 15:21:10,091 - ebanking -INFO - Click on add new customer
+2021-08-24 15:21:10,092 - ebanking -INFO - Adding customer details
+2021-08-24 15:21:23,141 - ebanking -INFO - Validation Started
+2021-08-24 15:21:23,164 - ebanking -INFO - Adding customer done
+2021-08-24 15:25:46,541 - ebanking -INFO - URL is Opened
+2021-08-24 15:25:46,893 - ebanking -INFO - Entered Username
+2021-08-24 15:25:47,009 - ebanking -INFO - Entered Password
+2021-08-24 15:25:50,044 - ebanking -INFO - Clicked Login
+2021-08-24 15:25:50,062 - ebanking -INFO - Test case is pass
+2021-08-24 15:25:55,184 - ebanking -INFO - URL is Opened
+2021-08-24 15:26:02,613 - ebanking -INFO - Login Passed
+2021-08-24 15:26:12,977 - ebanking -INFO - Login Passed
+2021-08-24 15:26:25,556 - ebanking -INFO - Login Passed
+2021-08-24 15:26:31,649 - ebanking -INFO - Login Passed
+2021-08-24 15:26:37,562 - ebanking -INFO - Login Passed
+2021-08-24 15:26:42,713 - ebanking -INFO - Login Passed
+2021-08-24 15:26:54,563 - ebanking -INFO - Login Passed
+2021-08-24 15:26:59,558 - ebanking -INFO - Login Passed
+2021-08-24 15:27:30,095 - ebanking -INFO - Login Passed
+2021-08-24 15:27:42,204 - ebanking -INFO - URL is Opened
+2021-08-24 15:27:42,528 - ebanking -INFO - Username entered
+2021-08-24 15:27:42,637 - ebanking -INFO - Password entered
+2021-08-24 15:27:45,549 - ebanking -INFO - Click on login
+2021-08-24 15:27:50,066 - ebanking -INFO - Click on add new customer
+2021-08-24 15:27:50,066 - ebanking -INFO - Adding customer details
+2021-08-24 15:28:04,003 - ebanking -INFO - Validation Started
+2021-08-24 15:28:04,029 - ebanking -INFO - Adding customer done
+2021-08-24 15:31:16,148 - ebanking -INFO - URL is Opened
+2021-08-24 15:31:16,530 - ebanking -INFO - Entered Username
+2021-08-24 15:31:16,647 - ebanking -INFO - Entered Password
+2021-08-24 15:31:18,546 - ebanking -INFO - Clicked Login
+2021-08-24 15:31:18,564 - ebanking -INFO - Test case is pass
+2021-08-24 15:31:23,751 - ebanking -INFO - URL is Opened
+2021-08-24 15:31:31,204 - ebanking -INFO - Login Passed
+2021-08-24 15:31:42,498 - ebanking -INFO - Login Passed
+2021-08-24 15:31:58,926 - ebanking -INFO - Login Passed
+2021-08-24 15:32:04,279 - ebanking -INFO - Login Passed
+2021-08-24 15:32:09,768 - ebanking -INFO - Login Passed
+2021-08-24 15:32:14,698 - ebanking -INFO - Login Passed
+2021-08-24 15:32:25,739 - ebanking -INFO - Login Passed
+2021-08-24 15:32:32,127 - ebanking -INFO - Login Passed
+2021-08-24 15:32:43,933 - ebanking -INFO - Login Passed
+2021-08-24 15:32:49,801 - ebanking -INFO - URL is Opened
+2021-08-24 15:32:50,164 - ebanking -INFO - Username entered
+2021-08-24 15:32:50,290 - ebanking -INFO - Password entered
+2021-08-24 15:32:52,272 - ebanking -INFO - Click on login
+2021-08-24 15:32:56,484 - ebanking -INFO - Click on add new customer
+2021-08-24 15:32:56,486 - ebanking -INFO - Adding customer details
+2021-08-24 15:33:10,016 - ebanking -INFO - Validation Started
+2021-08-24 15:33:10,041 - ebanking -INFO - Adding customer done
+2021-08-24 15:56:26,266 - ebanking -INFO - URL is Opened
+2021-08-24 15:56:26,675 - ebanking -INFO - Entered Username
+2021-08-24 15:56:26,800 - ebanking -INFO - Entered Password
+2021-08-24 15:56:28,473 - ebanking -INFO - Clicked Login
+2021-08-24 15:56:28,488 - ebanking -INFO - Test case is pass
+2021-08-24 15:56:33,619 - ebanking -INFO - URL is Opened
+2021-08-24 15:56:40,394 - ebanking -INFO - Login Passed
+2021-08-24 15:56:50,519 - ebanking -INFO - Login Passed
+2021-08-24 15:57:01,398 - ebanking -INFO - Login Passed
+2021-08-24 15:57:08,560 - ebanking -INFO - Login Passed
+2021-08-24 15:57:14,941 - ebanking -INFO - Login Passed
+2021-08-24 15:57:20,824 - ebanking -INFO - Login Passed
+2021-08-24 15:57:36,840 - ebanking -INFO - Login Passed
+2021-08-24 15:57:41,906 - ebanking -INFO - Login Passed
+2021-08-24 15:58:08,020 - ebanking -INFO - Login Passed
+2021-08-24 15:58:48,091 - ebanking -INFO - URL is Opened
+2021-08-24 15:58:48,440 - ebanking -INFO - Username entered
+2021-08-24 15:58:48,558 - ebanking -INFO - Password entered
+2021-08-24 15:58:58,298 - ebanking -INFO - Click on login
+2021-08-24 15:59:07,923 - ebanking -INFO - Click on add new customer
+2021-08-24 15:59:07,923 - ebanking -INFO - Adding customer details
+2021-08-24 15:59:21,036 - ebanking -INFO - Validation Started
+2021-08-24 15:59:21,067 - ebanking -INFO - Adding customer done
+2021-08-24 15:59:24,370 - ebanking -INFO - Click on add new customer
+2021-08-24 15:59:24,372 - ebanking -INFO - Adding customer details
+2021-08-24 15:59:37,353 - ebanking -INFO - Validation Started
+2021-08-24 15:59:37,369 - ebanking -INFO - Adding customer done
+2021-08-24 15:59:40,686 - ebanking -INFO - Click on add new customer
+2021-08-24 15:59:40,687 - ebanking -INFO - Adding customer details
+2021-08-24 15:59:54,098 - ebanking -INFO - Validation Started
+2021-08-24 15:59:54,114 - ebanking -INFO - Adding customer done
+2021-08-24 15:59:57,432 - ebanking -INFO - Click on add new customer
+2021-08-24 15:59:57,433 - ebanking -INFO - Adding customer details
+2021-08-24 16:00:08,483 - ebanking -INFO - Validation Started
+2021-08-24 16:00:37,310 - ebanking -INFO - URL is Opened
+2021-08-24 16:00:37,725 - ebanking -INFO - Entered Username
+2021-08-24 16:00:37,851 - ebanking -INFO - Entered Password
+2021-08-24 16:00:39,842 - ebanking -INFO - Clicked Login
+2021-08-24 16:00:39,856 - ebanking -INFO - Test case is pass
+2021-08-24 16:00:45,116 - ebanking -INFO - URL is Opened
+2021-08-24 16:00:51,897 - ebanking -INFO - Login Passed
+2021-08-24 16:01:01,976 - ebanking -INFO - Login Passed
+2021-08-24 16:01:12,948 - ebanking -INFO - Login Passed
+2021-08-24 16:01:18,807 - ebanking -INFO - Login Passed
+2021-08-24 16:01:24,919 - ebanking -INFO - Login Passed
+2021-08-24 16:01:29,844 - ebanking -INFO - Login Passed
+2021-08-24 16:01:41,076 - ebanking -INFO - Login Passed
+2021-08-24 16:01:45,759 - ebanking -INFO - Login Passed
+2021-08-24 16:01:56,554 - ebanking -INFO - Login Passed
+2021-08-24 16:02:01,725 - ebanking -INFO - URL is Opened
+2021-08-24 16:02:02,043 - ebanking -INFO - Username entered
+2021-08-24 16:02:02,147 - ebanking -INFO - Password entered
+2021-08-24 16:02:03,670 - ebanking -INFO - Click on login
+2021-08-24 16:02:07,575 - ebanking -INFO - Click on add new customer
+2021-08-24 16:02:07,576 - ebanking -INFO - Adding customer details
+2021-08-24 16:02:20,627 - ebanking -INFO - Validation Started
+2021-08-24 16:02:20,650 - ebanking -INFO - Adding customer done
+2021-08-24 16:02:23,984 - ebanking -INFO - Click on add new customer
+2021-08-24 16:02:23,985 - ebanking -INFO - Adding customer details
+2021-08-24 16:02:36,398 - ebanking -INFO - Validation Started
+2021-08-24 16:02:36,414 - ebanking -INFO - Adding customer done
+2021-08-24 16:06:14,514 - ebanking -INFO - URL is Opened
+2021-08-24 16:06:14,952 - ebanking -INFO - Entered Username
+2021-08-24 16:06:15,077 - ebanking -INFO - Entered Password
+2021-08-24 16:06:16,643 - ebanking -INFO - Clicked Login
+2021-08-24 16:06:16,662 - ebanking -INFO - Test case is pass
+2021-08-24 16:06:22,088 - ebanking -INFO - URL is Opened
+2021-08-24 16:06:28,871 - ebanking -INFO - Login Passed
+2021-08-24 16:06:38,395 - ebanking -INFO - Login Passed
+2021-08-24 16:06:49,721 - ebanking -INFO - Login Passed
+2021-08-24 16:06:55,833 - ebanking -INFO - Login Passed
+2021-08-24 16:07:01,720 - ebanking -INFO - Login Passed
+2021-08-24 16:07:06,501 - ebanking -INFO - Login Passed
+2021-08-24 16:07:16,635 - ebanking -INFO - Login Passed
+2021-08-24 16:07:21,266 - ebanking -INFO - Login Passed
+2021-08-24 16:07:32,166 - ebanking -INFO - Login Passed
+2021-08-24 16:07:37,576 - ebanking -INFO - URL is Opened
+2021-08-24 16:07:40,903 - ebanking -INFO - Username entered
+2021-08-24 16:07:41,023 - ebanking -INFO - Password entered
+2021-08-24 16:07:43,035 - ebanking -INFO - Click on login
+2021-08-24 16:07:43,804 - ebanking -INFO - Click on add new customer
+2021-08-24 16:07:43,805 - ebanking -INFO - Adding customer details
+2021-08-24 16:07:56,493 - ebanking -INFO - Validation Started
+2021-08-24 16:07:56,510 - ebanking -INFO - Adding customer done
+2021-08-24 16:08:43,725 - ebanking -INFO - URL is Opened
+2021-08-24 16:08:46,418 - ebanking -INFO - URL is Opened
+2021-08-24 16:08:50,953 - ebanking -INFO - URL is Opened
+2021-08-24 16:08:52,537 - ebanking -INFO - Username entered
+2021-08-24 16:08:52,706 - ebanking -INFO - Password entered
+2021-08-24 16:08:55,192 - ebanking -INFO - Click on login
+2021-08-24 16:08:59,298 - ebanking -INFO - Click on add new customer
+2021-08-24 16:08:59,299 - ebanking -INFO - Adding customer details
+2021-08-24 16:09:12,080 - ebanking -INFO - Validation Started
+2021-08-24 16:09:12,105 - ebanking -INFO - Adding customer done
+2021-08-24 16:09:15,566 - ebanking -INFO - Click on add new customer
+2021-08-24 16:09:15,567 - ebanking -INFO - Adding customer details
+2021-08-24 16:09:28,750 - ebanking -INFO - Validation Started
+2021-08-24 16:09:28,765 - ebanking -INFO - Adding customer done
+2021-08-24 16:09:32,113 - ebanking -INFO - Click on add new customer
+2021-08-24 16:09:32,114 - ebanking -INFO - Adding customer details
+2021-08-24 16:09:44,639 - ebanking -INFO - Validation Started
+2021-08-24 16:09:44,656 - ebanking -INFO - Adding customer done
+2021-08-24 16:10:20,471 - ebanking -INFO - URL is Opened
+2021-08-24 16:10:21,984 - ebanking -INFO - Username entered
+2021-08-24 16:10:22,083 - ebanking -INFO - Password entered
+2021-08-24 16:10:25,078 - ebanking -INFO - Click on login
+2021-08-24 16:10:29,220 - ebanking -INFO - Click on add new customer
+2021-08-24 16:10:29,221 - ebanking -INFO - Adding customer details
+2021-08-24 16:10:43,108 - ebanking -INFO - Validation Started
+2021-08-24 16:10:43,134 - ebanking -INFO - Adding customer done
+2021-08-24 16:10:46,565 - ebanking -INFO - Click on add new customer
+2021-08-24 16:10:46,565 - ebanking -INFO - Adding customer details
+2021-08-24 16:11:00,072 - ebanking -INFO - Validation Started
+2021-08-24 16:11:00,089 - ebanking -INFO - Adding customer done
+2021-08-24 16:11:03,500 - ebanking -INFO - Click on add new customer
+2021-08-24 16:11:03,501 - ebanking -INFO - Adding customer details
+2021-08-24 16:11:16,179 - ebanking -INFO - Validation Started
+2021-08-24 16:11:16,196 - ebanking -INFO - Adding customer done
