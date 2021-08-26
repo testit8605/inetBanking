@@ -20,6 +20,10 @@ public class TC_AddCustomer_003 extends BaseClass
 	@Test
 	public void addNewCustomer() throws IOException, InterruptedException 
 	{
+		
+		driver.get(baseURL);
+		logger.info("URL is Opened");
+		driver.manage().window().maximize();
 
 		String path  = "./src/test/java/com/inetbanking/testData/DDTestCase.xlsx";
 		XLUtility xlreader =new XLUtility(path);

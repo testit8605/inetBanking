@@ -13,6 +13,10 @@ public class TC_LoginfDDD_002 extends BaseClass
 	@Test
 	public void loginDDD() throws IOException, InterruptedException 
 	{
+		driver.get(baseURL);
+		logger.info("URL is Opened");
+		driver.manage().window().maximize();
+		
 		String path  = "./src/test/java/com/inetbanking/testData/DDTestCase.xlsx";
 		XLUtility xlreader =new XLUtility(path);
 		

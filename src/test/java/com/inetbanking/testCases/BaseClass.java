@@ -26,6 +26,7 @@ public class BaseClass
 
 	ReadConfig readconfig = new ReadConfig();
 	public String baseURL = readconfig.getApplicationURL();
+	public String baseURL2 = readconfig.getApplicationURL2();
 	public String username = readconfig.getUsername();
 	public String password = readconfig.getPassword();
 	public static WebDriver driver;
@@ -41,7 +42,7 @@ public class BaseClass
 		PropertyConfigurator.configure("log4j2.properties"); 
 
 
-		if(br.equals("chrome"))
+		if(br.equalsIgnoreCase("chrome"))
 		{
 
 			WebDriverManager.chromedriver().setup();
@@ -49,7 +50,7 @@ public class BaseClass
 			driver = new ChromeDriver();
 		}
 
-		else if(br.equals("firefox"))
+		else if(br.equalsIgnoreCase("firefox"))
 		{
 
 			WebDriverManager.firefoxdriver().setup();
@@ -57,16 +58,16 @@ public class BaseClass
 
 		}
 
-		else if(br.equals("edge"))
+		else if(br.equalsIgnoreCase("edge"))
 		{
 
 			WebDriverManager.edgedriver().setup();
 			driver = new EdgeDriver();
 		}
 
-		driver.get(baseURL);
+		/*driver.get(baseURL);
 		logger.info("URL is Opened");
-		driver.manage().window().maximize();
+		driver.manage().window().maximize();*/
 
 	}
 	

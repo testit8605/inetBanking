@@ -1038,3 +1038,249 @@
 2021-08-24 16:11:03,501 [main] INFO ebanking - Adding customer details
 2021-08-24 16:11:16,179 [main] INFO ebanking - Validation Started
 2021-08-24 16:11:16,196 [main] INFO ebanking - Adding customer done
+2021-08-25 14:42:31,725 [main] INFO ebanking - URL is Opened
+2021-08-25 14:42:32,123 [main] INFO ebanking - Entered Username
+2021-08-25 14:42:32,233 [main] INFO ebanking - Entered Password
+2021-08-25 14:42:34,899 [main] INFO ebanking - Clicked Login
+2021-08-25 14:42:34,915 [main] INFO ebanking - Test case is pass
+2021-08-25 14:42:40,215 [main] INFO ebanking - URL is Opened
+2021-08-25 14:42:47,738 [main] INFO ebanking - Login Passed
+2021-08-25 14:42:57,944 [main] INFO ebanking - Login Passed
+2021-08-25 14:43:10,195 [main] INFO ebanking - Login Passed
+2021-08-25 14:43:16,126 [main] INFO ebanking - Login Passed
+2021-08-25 14:43:22,520 [main] INFO ebanking - Login Passed
+2021-08-25 14:43:27,367 [main] INFO ebanking - Login Passed
+2021-08-25 14:43:38,598 [main] INFO ebanking - Login Passed
+2021-08-25 14:43:43,377 [main] INFO ebanking - Login Passed
+2021-08-25 14:43:55,289 [main] INFO ebanking - Login Passed
+2021-08-25 14:44:00,993 [main] INFO ebanking - URL is Opened
+2021-08-25 14:44:01,334 [main] INFO ebanking - Username entered
+2021-08-25 14:44:01,441 [main] INFO ebanking - Password entered
+2021-08-25 14:44:03,680 [main] INFO ebanking - Click on login
+2021-08-25 14:44:08,000 [main] INFO ebanking - Click on add new customer
+2021-08-25 14:44:08,000 [main] INFO ebanking - Adding customer details
+2021-08-25 14:44:20,189 [main] INFO ebanking - Validation Started
+2021-08-25 14:44:47,209 [main] INFO ebanking - URL is Opened
+2021-08-25 14:44:47,582 [main] INFO ebanking - Entered Username
+2021-08-25 14:44:47,687 [main] INFO ebanking - Entered Password
+2021-08-25 14:44:50,276 [main] INFO ebanking - Clicked Login
+2021-08-25 14:44:50,297 [main] INFO ebanking - Test case is pass
+2021-08-25 14:44:55,676 [main] INFO ebanking - URL is Opened
+2021-08-25 14:45:02,625 [main] INFO ebanking - Login Passed
+2021-08-25 14:45:13,706 [main] INFO ebanking - Login Passed
+2021-08-25 14:45:26,215 [main] INFO ebanking - Login Passed
+2021-08-25 14:45:31,933 [main] INFO ebanking - Login Passed
+2021-08-25 14:45:38,507 [main] INFO ebanking - Login Passed
+2021-08-25 14:45:43,418 [main] INFO ebanking - Login Passed
+2021-08-25 14:45:55,302 [main] INFO ebanking - Login Passed
+2021-08-25 14:46:00,177 [main] INFO ebanking - Login Passed
+2021-08-25 14:46:11,855 [main] INFO ebanking - Login Passed
+2021-08-25 14:46:17,714 [main] INFO ebanking - URL is Opened
+2021-08-25 14:46:18,034 [main] INFO ebanking - Username entered
+2021-08-25 14:46:18,144 [main] INFO ebanking - Password entered
+2021-08-25 14:46:20,489 [main] INFO ebanking - Click on login
+2021-08-25 14:46:24,791 [main] INFO ebanking - Click on add new customer
+2021-08-25 14:46:24,792 [main] INFO ebanking - Adding customer details
+2021-08-25 14:46:38,028 [main] INFO ebanking - Validation Started
+2021-08-25 14:46:38,059 [main] INFO ebanking - Adding customer done
+2021-08-25 14:46:41,354 [main] INFO ebanking - Click on add new customer
+2021-08-25 14:46:41,356 [main] INFO ebanking - Adding customer details
+2021-08-25 14:46:53,784 [main] INFO ebanking - Validation Started
+2021-08-25 14:46:53,799 [main] INFO ebanking - Adding customer done
+2021-08-25 14:46:57,268 [main] INFO ebanking - Click on add new customer
+2021-08-25 14:46:57,269 [main] INFO ebanking - Adding customer details
+2021-08-25 14:47:10,179 [main] INFO ebanking - Validation Started
+2021-08-25 14:47:10,195 [main] INFO ebanking - Adding customer done
+2021-08-25 14:48:59,255 [main] INFO ebanking - URL is Opened
+2021-08-25 14:48:59,620 [main] INFO ebanking - Entered Username
+2021-08-25 14:48:59,731 [main] INFO ebanking - Entered Password
+2021-08-25 14:49:01,975 [main] INFO ebanking - Clicked Login
+2021-08-25 14:49:01,989 [main] INFO ebanking - Test case is pass
+2021-08-25 14:49:56,261 [main] INFO ebanking - URL is Opened
+2021-08-25 14:49:56,594 [main] INFO ebanking - Entered Username
+2021-08-25 14:49:56,703 [main] INFO ebanking - Entered Password
+2021-08-25 14:49:58,806 [main] INFO ebanking - Clicked Login
+2021-08-25 14:49:58,820 [main] INFO ebanking - Test case is pass
+2021-08-25 14:50:04,943 [main] INFO ebanking - URL is Opened
+2021-08-25 14:50:11,949 [main] INFO ebanking - Login Passed
+2021-08-25 14:50:23,321 [main] INFO ebanking - Login Passed
+2021-08-25 14:50:35,159 [main] INFO ebanking - Login Passed
+2021-08-25 14:50:41,698 [main] INFO ebanking - Login Passed
+2021-08-25 14:50:47,964 [main] INFO ebanking - Login Passed
+2021-08-25 14:50:52,997 [main] INFO ebanking - Login Passed
+2021-08-25 14:51:03,678 [main] INFO ebanking - Login Passed
+2021-08-25 14:51:08,467 [main] INFO ebanking - Login Passed
+2021-08-25 14:51:20,004 [main] INFO ebanking - Login Passed
+2021-08-25 14:51:25,896 [main] INFO ebanking - URL is Opened
+2021-08-25 14:51:26,232 [main] INFO ebanking - Username entered
+2021-08-25 14:51:26,332 [main] INFO ebanking - Password entered
+2021-08-25 14:51:28,511 [main] INFO ebanking - Click on login
+2021-08-25 14:51:32,698 [main] INFO ebanking - Click on add new customer
+2021-08-25 14:51:32,700 [main] INFO ebanking - Adding customer details
+2021-08-25 14:51:46,129 [main] INFO ebanking - Validation Started
+2021-08-25 14:51:46,152 [main] INFO ebanking - Adding customer done
+2021-08-25 14:51:49,473 [main] INFO ebanking - Click on add new customer
+2021-08-25 14:51:49,473 [main] INFO ebanking - Adding customer details
+2021-08-25 14:52:01,967 [main] INFO ebanking - Validation Started
+2021-08-25 14:52:01,982 [main] INFO ebanking - Adding customer done
+2021-08-25 14:52:05,304 [main] INFO ebanking - Click on add new customer
+2021-08-25 14:52:05,305 [main] INFO ebanking - Adding customer details
+2021-08-25 14:52:18,094 [main] INFO ebanking - Validation Started
+2021-08-25 14:52:18,113 [main] INFO ebanking - Adding customer done
+2021-08-25 15:32:50,101 [main] INFO ebanking - URL is Opened
+2021-08-25 15:32:50,282 [main] INFO ebanking - Entered Username
+2021-08-25 15:32:50,326 [main] INFO ebanking - Entered Password
+2021-08-25 15:32:52,125 [main] INFO ebanking - Clicked Login
+2021-08-25 15:32:57,731 [main] INFO ebanking - URL is Opened
+2021-08-25 15:33:06,066 [main] INFO ebanking - URL is Opened
+2021-08-25 15:33:07,309 [main] INFO ebanking - Username entered
+2021-08-25 15:33:07,342 [main] INFO ebanking - Password entered
+2021-08-25 15:33:08,724 [main] INFO ebanking - Click on login
+2021-08-25 15:44:57,738 [main] INFO ebanking - URL is Opened
+2021-08-25 15:44:58,109 [main] INFO ebanking - Entered Username
+2021-08-25 15:44:58,229 [main] INFO ebanking - Entered Password
+2021-08-25 15:45:00,246 [main] INFO ebanking - Clicked Login
+2021-08-25 15:45:00,259 [main] INFO ebanking - Test case is pass
+2021-08-25 15:45:06,103 [main] INFO ebanking - URL is Opened
+2021-08-25 15:45:12,764 [main] INFO ebanking - Login Passed
+2021-08-25 15:45:23,413 [main] INFO ebanking - Login Passed
+2021-08-25 15:45:34,643 [main] INFO ebanking - Login Passed
+2021-08-25 15:45:40,355 [main] INFO ebanking - Login Passed
+2021-08-25 15:45:46,548 [main] INFO ebanking - Login Passed
+2021-08-25 15:45:51,565 [main] INFO ebanking - Login Passed
+2021-08-25 15:46:03,167 [main] INFO ebanking - Login Passed
+2021-08-25 15:46:08,112 [main] INFO ebanking - Login Passed
+2021-08-25 15:46:19,057 [main] INFO ebanking - Login Passed
+2021-08-25 15:46:24,720 [main] INFO ebanking - URL is Opened
+2021-08-25 15:46:25,123 [main] INFO ebanking - Username entered
+2021-08-25 15:46:25,249 [main] INFO ebanking - Password entered
+2021-08-25 15:46:27,374 [main] INFO ebanking - Click on login
+2021-08-25 15:46:31,273 [main] INFO ebanking - Click on add new customer
+2021-08-25 15:46:31,274 [main] INFO ebanking - Adding customer details
+2021-08-25 15:46:44,188 [main] INFO ebanking - Validation Started
+2021-08-25 15:46:44,213 [main] INFO ebanking - Adding customer done
+2021-08-25 15:46:47,545 [main] INFO ebanking - Click on add new customer
+2021-08-25 15:46:47,546 [main] INFO ebanking - Adding customer details
+2021-08-25 15:47:00,064 [main] INFO ebanking - Validation Started
+2021-08-25 15:47:00,079 [main] INFO ebanking - Adding customer done
+2021-08-25 15:47:03,371 [main] INFO ebanking - Click on add new customer
+2021-08-25 15:47:03,371 [main] INFO ebanking - Adding customer details
+2021-08-25 15:47:15,840 [main] INFO ebanking - Validation Started
+2021-08-25 15:47:15,858 [main] INFO ebanking - Adding customer done
+2021-08-25 15:53:43,552 [TestNG-test=testOnChrome-2] INFO ebanking - URL is Opened
+2021-08-25 15:53:43,866 [TestNG-test=testOnChrome-3] INFO ebanking - URL is Opened
+2021-08-25 15:53:44,336 [TestNG-test=testOnChrome-1] INFO ebanking - URL is Opened
+2021-08-25 15:55:11,765 [TestNG-test=testOnChrome-2] INFO ebanking - URL is Opened
+2021-08-25 15:55:12,016 [TestNG-test=testOnChrome-1] INFO ebanking - URL is Opened
+2021-08-25 15:55:12,443 [TestNG-test=testOnChrome-1] INFO ebanking - Entered Username
+2021-08-25 15:55:12,615 [TestNG-test=testOnChrome-1] INFO ebanking - Entered Password
+2021-08-25 15:55:13,303 [TestNG-test=testOnChrome-3] INFO ebanking - URL is Opened
+2021-08-25 15:55:14,875 [TestNG-test=testOnChrome-1] INFO ebanking - Clicked Login
+2021-08-25 15:55:14,990 [TestNG-test=testOnChrome-1] INFO ebanking - Test case is pass
+2021-08-25 15:57:45,219 [main] INFO ebanking - URL is Opened
+2021-08-25 15:57:45,607 [main] INFO ebanking - Entered Username
+2021-08-25 15:57:45,721 [main] INFO ebanking - Entered Password
+2021-08-25 15:57:47,928 [main] INFO ebanking - Clicked Login
+2021-08-25 15:57:47,942 [main] INFO ebanking - Test case is pass
+2021-08-25 15:57:53,501 [main] INFO ebanking - URL is Opened
+2021-08-25 15:57:59,916 [main] INFO ebanking - Login Passed
+2021-08-25 15:58:14,215 [main] INFO ebanking - Login Passed
+2021-08-25 15:58:26,093 [main] INFO ebanking - Login Passed
+2021-08-25 15:58:32,251 [main] INFO ebanking - Login Passed
+2021-08-25 15:58:38,129 [main] INFO ebanking - Login Passed
+2021-08-25 15:58:43,325 [main] INFO ebanking - Login Passed
+2021-08-25 15:58:54,369 [main] INFO ebanking - Login Passed
+2021-08-25 15:58:59,287 [main] INFO ebanking - Login Passed
+2021-08-25 15:59:11,178 [main] INFO ebanking - Login Passed
+2021-08-25 15:59:16,881 [main] INFO ebanking - URL is Opened
+2021-08-25 15:59:17,244 [main] INFO ebanking - Username entered
+2021-08-25 15:59:17,354 [main] INFO ebanking - Password entered
+2021-08-25 15:59:19,079 [main] INFO ebanking - Click on login
+2021-08-25 15:59:23,583 [main] INFO ebanking - Click on add new customer
+2021-08-25 15:59:23,585 [main] INFO ebanking - Adding customer details
+2021-08-25 15:59:36,289 [main] INFO ebanking - Validation Started
+2021-08-25 15:59:36,320 [main] INFO ebanking - Adding customer done
+2021-08-25 15:59:39,686 [main] INFO ebanking - Click on add new customer
+2021-08-25 15:59:39,688 [main] INFO ebanking - Adding customer details
+2021-08-25 15:59:52,151 [main] INFO ebanking - Validation Started
+2021-08-25 15:59:52,167 [main] INFO ebanking - Adding customer done
+2021-08-25 15:59:55,466 [main] INFO ebanking - Click on add new customer
+2021-08-25 15:59:55,468 [main] INFO ebanking - Adding customer details
+2021-08-25 16:00:08,034 [main] INFO ebanking - Validation Started
+2021-08-25 16:00:08,050 [main] INFO ebanking - Adding customer done
+2021-08-25 16:00:20,584 [main] INFO ebanking - URL is Opened
+2021-08-25 16:00:20,688 [main] INFO ebanking - Entered Username
+2021-08-25 16:00:20,731 [main] INFO ebanking - Entered Password
+2021-08-25 16:00:22,052 [main] INFO ebanking - Clicked Login
+2021-08-25 16:00:22,056 [main] INFO ebanking - Test case is pass
+2021-08-25 16:00:30,019 [main] INFO ebanking - URL is Opened
+2021-08-25 16:00:34,838 [main] INFO ebanking - Login Passed
+2021-08-25 16:00:44,267 [main] INFO ebanking - Login Passed
+2021-08-25 16:00:52,669 [main] INFO ebanking - Login Passed
+2021-08-25 16:00:57,748 [main] INFO ebanking - Login Passed
+2021-08-25 16:01:03,531 [main] INFO ebanking - Login Passed
+2021-08-25 16:01:09,104 [main] INFO ebanking - Login Passed
+2021-08-25 16:01:17,732 [main] INFO ebanking - Login Passed
+2021-08-25 16:01:23,918 [main] INFO ebanking - Login Passed
+2021-08-25 16:01:32,186 [main] INFO ebanking - Login Passed
+2021-08-25 16:01:42,168 [main] INFO ebanking - URL is Opened
+2021-08-25 16:01:42,302 [main] INFO ebanking - Username entered
+2021-08-25 16:01:42,339 [main] INFO ebanking - Password entered
+2021-08-25 16:01:44,131 [main] INFO ebanking - Click on login
+2021-08-25 16:01:48,290 [main] INFO ebanking - Click on add new customer
+2021-08-25 16:01:48,291 [main] INFO ebanking - Adding customer details
+2021-08-25 16:01:59,004 [main] INFO ebanking - Validation Started
+2021-08-25 16:02:16,855 [main] INFO ebanking - URL is Opened
+2021-08-25 16:02:17,130 [main] INFO ebanking - Entered Username
+2021-08-25 16:02:17,258 [main] INFO ebanking - Entered Password
+2021-08-25 16:02:19,076 [main] INFO ebanking - Clicked Login
+2021-08-25 16:02:19,088 [main] INFO ebanking - Test case is pass
+2021-08-25 16:02:24,291 [main] INFO ebanking - URL is Opened
+2021-08-25 16:02:29,739 [main] INFO ebanking - Login Passed
+2021-08-25 16:02:39,645 [main] INFO ebanking - Login Passed
+2021-08-25 16:02:50,671 [main] INFO ebanking - Login Passed
+2021-08-25 16:02:56,438 [main] INFO ebanking - Login Passed
+2021-08-25 16:03:02,864 [main] INFO ebanking - Login Passed
+2021-08-25 16:03:08,161 [main] INFO ebanking - Login Passed
+2021-08-25 16:03:19,583 [main] INFO ebanking - Login Passed
+2021-08-25 16:03:24,863 [main] INFO ebanking - Login Passed
+2021-08-25 16:03:36,516 [main] INFO ebanking - Login Passed
+2021-08-25 16:03:42,089 [main] INFO ebanking - URL is Opened
+2021-08-25 16:03:42,399 [main] INFO ebanking - Username entered
+2021-08-25 16:03:42,514 [main] INFO ebanking - Password entered
+2021-08-25 16:03:44,388 [main] INFO ebanking - Click on login
+2021-08-25 16:03:48,635 [main] INFO ebanking - Click on add new customer
+2021-08-25 16:03:48,636 [main] INFO ebanking - Adding customer details
+2021-08-25 16:04:01,560 [main] INFO ebanking - Validation Started
+2021-08-25 16:04:01,575 [main] INFO ebanking - Adding customer done
+2021-08-25 16:04:04,920 [main] INFO ebanking - Click on add new customer
+2021-08-25 16:04:04,921 [main] INFO ebanking - Adding customer details
+2021-08-25 16:04:17,801 [main] INFO ebanking - Validation Started
+2021-08-25 16:04:17,818 [main] INFO ebanking - Adding customer done
+2021-08-25 16:04:21,132 [main] INFO ebanking - Click on add new customer
+2021-08-25 16:04:21,133 [main] INFO ebanking - Adding customer details
+2021-08-25 16:04:33,638 [main] INFO ebanking - Validation Started
+2021-08-25 16:04:33,648 [main] INFO ebanking - Adding customer done
+2021-08-25 16:21:20,055 [TestNG-tests-1] INFO ebanking - URL is Opened
+2021-08-25 16:21:20,492 [TestNG-tests-3] INFO ebanking - URL is Opened
+2021-08-25 16:21:23,267 [TestNG-tests-2] INFO ebanking - URL is Opened
+2021-08-25 16:21:23,370 [TestNG-tests-1] INFO ebanking - Entered Username
+2021-08-25 16:21:23,377 [TestNG-tests-3] INFO ebanking - Entered Username
+2021-08-25 16:21:23,386 [TestNG-tests-2] INFO ebanking - Entered Username
+2021-08-25 16:21:23,406 [TestNG-tests-3] INFO ebanking - Entered Password
+2021-08-25 16:21:23,416 [TestNG-tests-1] INFO ebanking - Entered Password
+2021-08-25 16:21:23,425 [TestNG-tests-2] INFO ebanking - Entered Password
+2021-08-25 16:21:24,344 [TestNG-tests-1] INFO ebanking - Clicked Login
+2021-08-25 16:21:31,035 [TestNG-tests-1] INFO ebanking - URL is Opened
+2021-08-25 16:21:31,473 [TestNG-tests-3] INFO ebanking - URL is Opened
+2021-08-25 16:21:33,934 [TestNG-tests-2] INFO ebanking - URL is Opened
+2021-08-25 16:21:40,255 [TestNG-tests-3] INFO ebanking - URL is Opened
+2021-08-25 16:21:42,455 [TestNG-tests-1] INFO ebanking - URL is Opened
+2021-08-25 16:21:44,088 [TestNG-tests-2] INFO ebanking - URL is Opened
+2021-08-25 16:21:44,253 [TestNG-tests-1] INFO ebanking - Username entered
+2021-08-25 16:21:44,262 [TestNG-tests-3] INFO ebanking - Username entered
+2021-08-25 16:21:44,270 [TestNG-tests-2] INFO ebanking - Username entered
+2021-08-25 16:21:44,302 [TestNG-tests-3] INFO ebanking - Password entered
+2021-08-25 16:21:44,311 [TestNG-tests-1] INFO ebanking - Password entered
+2021-08-25 16:21:44,326 [TestNG-tests-2] INFO ebanking - Password entered
+2021-08-25 16:21:45,055 [TestNG-tests-3] INFO ebanking - Click on login
