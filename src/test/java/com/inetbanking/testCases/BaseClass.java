@@ -16,9 +16,11 @@ import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
+import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.Parameters;
 
 import com.inetbanking.Utilities.ReadConfig;
+import com.inetbanking.pageObjects.LoginPage;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
@@ -32,8 +34,8 @@ public class BaseClass
 	public String password = readconfig.getPassword();
 	public static WebDriver driver;
 	public static Logger logger;
-
-
+		
+	
 	@Parameters("browser")
 	@BeforeClass
 	public void setUp(String br)
@@ -49,6 +51,7 @@ public class BaseClass
 			WebDriverManager.chromedriver().setup();
 			//System.setProperty("webdriver.chrome.driver", readconfig.getChromePath());
 			driver = new ChromeDriver();
+			
 		}
 
 		else if(br.equalsIgnoreCase("firefox"))
@@ -66,7 +69,10 @@ public class BaseClass
 			driver = new EdgeDriver();
 		}
 		
+		
+		driver.manage().timeouts().pageLoadTimeout(30, TimeUnit.SECONDS);
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+		driver.manage().window().maximize();
 
 		/*driver.get(baseURL);
 		logger.info("URL is Opened");
@@ -83,7 +89,7 @@ public class BaseClass
 	}
 	
 	
-	public void captureScreen(WebDriver driver, String tname) throws IOException
+	public static void captureScreen(WebDriver driver, String tname) throws IOException
 	{
 		TakesScreenshot ts = (TakesScreenshot)driver;
 		File source = ts.getScreenshotAs(OutputType.FILE);
@@ -93,13 +99,13 @@ public class BaseClass
 		
 	}
 	
-	public String randomString()
+	public static String randomString()
 	{
 		String generatedstring = RandomStringUtils.randomAlphabetic(8);
 		return generatedstring;
 	}
 
-	public String randomNumber()
+	public static String randomNumber()
 	{
 		String generatenumber = RandomStringUtils.randomNumeric(10);
 		return generatenumber;

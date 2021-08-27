@@ -32,6 +32,7 @@ public class LoginPage
 	WebElement btnLogout;
 
 
+
 	public void setUserName(String umane)
 	{
 		textUserName.sendKeys(umane);
@@ -46,11 +47,20 @@ public class LoginPage
 	{
 		btnLogin.click();
 	}
+
 	
 	public void clickLogout()
 	{
 		btnLogout.click();
 	}
+	
+	public void loginToDemoGuruApplication(String umane, String pwd)
+	{
+		textUserName.sendKeys(umane);
+		textPassword.sendKeys(pwd);
+		btnLogin.click();
+	}
+	
 
 
 

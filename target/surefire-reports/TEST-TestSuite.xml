@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestSuite" time="123.977" tests="3" errors="0" skipped="0" failures="1">
+<testsuite name="TestSuite" time="11.955" tests="1" errors="0" skipped="0" failures="1">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="java.vm.version" value="15.0.1+9-18"/>
@@ -24,88 +24,57 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 10"/>
-    <property name="classworlds.conf" value="C:\apache-maven-3.6.3\bin\..\bin\m2.conf"/>
+    <property name="classworlds.conf" value="C:\Users\bhaga\myworkspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf9442813859819181209.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="java.library.path" value="C:\Program Files\Java\jdk-15.0.1\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Java\jdk-15.0.1\bin;C:\apache-maven-3.6.3\bin\;C:\apache-maven-3.6.3\\bin;C:\Program Files\Java\jdk-15.0.1\lib;C:\Users\bhaga\AppData\Local\Microsoft\WindowsApps;;."/>
-    <property name="maven.conf" value="C:\apache-maven-3.6.3\bin\../conf"/>
     <property name="jdk.debug" value="release"/>
     <property name="java.class.version" value="59.0"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="os.version" value="10.0"/>
-    <property name="library.jansi.path" value="C:\apache-maven-3.6.3\bin\..\lib\jansi-native"/>
     <property name="user.home" value="C:\Users\bhaga"/>
     <property name="user.timezone" value="Asia/Calcutta"/>
     <property name="file.encoding" value="Cp1252"/>
     <property name="java.specification.version" value="15"/>
     <property name="user.name" value="bhaga"/>
-    <property name="java.class.path" value="C:\apache-maven-3.6.3\bin\..\boot\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.class.path" value="C:\Users\bhaga\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_1.16.0.20200610-1735\jars\plexus-classworlds-2.6.0.jar"/>
     <property name="java.vm.specification.version" value="15"/>
     <property name="sun.arch.data.model" value="64"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean install"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
     <property name="java.home" value="C:\Program Files\Java\jdk-15.0.1"/>
     <property name="user.language" value="en"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="java.vm.info" value="mixed mode, sharing"/>
     <property name="java.version" value="15.0.1"/>
     <property name="java.vendor" value="Oracle Corporation"/>
-    <property name="sun.stderr.encoding" value="cp437"/>
-    <property name="maven.home" value="C:\apache-maven-3.6.3\bin\.."/>
+    <property name="maven.home" value="C:\Users\bhaga\myworkspace\InetBankingDemo\EMBEDDED"/>
     <property name="file.separator" value="\"/>
     <property name="java.version.date" value="2020-10-20"/>
     <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.endian" value="little"/>
-    <property name="sun.stdout.encoding" value="cp437"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="LoginTest" classname="com.inetbanking.testCases.TC_LoginTest_001" time="3.389"/>
-  <testcase name="loginDDD" classname="com.inetbanking.testCases.TC_LoginfDDD_002" time="94.78"/>
-  <testcase name="addNewCustomer" classname="com.inetbanking.testCases.TC_AddCustomer_003" time="25.808">
-    <failure message="element click intercepted: Element &lt;a href=&quot;Logout.php&quot;&gt;...&lt;/a&gt; is not clickable at point (120, 546). Other element would receive the click: &lt;p align=&quot;right&quot;&gt;...&lt;/p&gt;&#10;  (Session info: chrome=92.0.4515.159)&#10;Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;&#10;System info: host: &apos;LAPTOP-0SJ3B8VU&apos;, ip: &apos;192.168.43.174&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;15.0.1&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.159, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: C:\Users\bhaga\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60289}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}&#10;Session ID: 3ed5c0056916e4b424184a95df764ddb" type="org.openqa.selenium.ElementClickInterceptedException"><![CDATA[org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a href="Logout.php">...</a> is not clickable at point (120, 546). Other element would receive the click: <p align="right">...</p>
-  (Session info: chrome=92.0.4515.159)
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'LAPTOP-0SJ3B8VU', ip: '192.168.43.174', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.1'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.159, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: C:\Users\bhaga\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60289}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: 3ed5c0056916e4b424184a95df764ddb
-	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:64)
-	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
-	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
-	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
-	at jdk.internal.reflect.GeneratedMethodAccessor8.invoke(Unknown Source)
-	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
-	at com.sun.proxy.$Proxy11.click(Unknown Source)
-	at com.inetbanking.pageObjects.LoginPage.clickLogout(LoginPage.java:52)
-	at com.inetbanking.testCases.TC_AddCustomer_003.addNewCustomer(TC_AddCustomer_003.java:90)
+  <testcase name="ragisterNewCustomer" classname="com.inetbanking.testCases.TC_RagisterUser_004" time="11.955">
+    <failure message="Cannot invoke &quot;org.openqa.selenium.WebElement.getTagName()&quot; because &quot;element&quot; is null" type="java.lang.NullPointerException"><![CDATA[java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebElement.getTagName()" because "element" is null
+	at org.openqa.selenium.support.ui.Select.<init>(Select.java:45)
+	at com.inetbanking.pageObjects.Ragister.<init>(Ragister.java:108)
+	at com.inetbanking.testCases.TC_RagisterUser_004.ragisterNewCustomer(TC_RagisterUser_004.java:55)
 ]]></failure>
-    <system-out><![CDATA[ INFO [main] (BaseClass.java:68)- URL is Opened
+    <system-out><![CDATA[[TestNGContentHandler] [WARN] It is strongly recommended to add "<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >" at the top of your file, otherwise TestNG may fail or not work as expected.
+ INFO [main] (TC_RagisterUser_004.java:22)- URL is Opened
 10
-6
- INFO [main] (TC_AddCustomer_003.java:35)- Username entered
- INFO [main] (TC_AddCustomer_003.java:37)- Password entered
- INFO [main] (TC_AddCustomer_003.java:39)- Click on login
- INFO [main] (TC_AddCustomer_003.java:58)- Click on add new customer
- INFO [main] (TC_AddCustomer_003.java:60)- Adding customer details
- INFO [main] (TC_AddCustomer_003.java:81)- Validation Started
- INFO [main] (TC_AddCustomer_003.java:88)- Adding customer done
+12
+ INFO [main] (TC_RagisterUser_004.java:53)- Ragistration Started
 ]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 92.0.4515.107 (87a818b10553a07434ea9e2b6dccf3cbe7895134-refs/branch-heads/4515@{#1634}) on port 13838
+    <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Starting ChromeDriver 92.0.4515.107 (87a818b10553a07434ea9e2b6dccf3cbe7895134-refs/branch-heads/4515@{#1634}) on port 18898
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-Aug 24, 2021 3:27:32 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+Aug 27, 2021 3:12:23 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
 ]]></system-err>
   </testcase>

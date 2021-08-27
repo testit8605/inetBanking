@@ -7,6 +7,13 @@
   <test thread-count="5" name="testOnChrome(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
+      <class name="com.inetbanking.testCases.TC_LoginTest_001">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="LoginTest"/>
+        </methods>
+      </class> <!-- com.inetbanking.testCases.TC_LoginTest_001 -->
       <class name="com.inetbanking.testCases.TC_RagisterUser_004">
         <methods>
           <include name="tearDown"/>

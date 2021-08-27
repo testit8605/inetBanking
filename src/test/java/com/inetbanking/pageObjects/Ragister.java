@@ -10,7 +10,8 @@ public class Ragister
 {
 	
 	WebDriver ldriver;
-	
+
+
 	public Ragister(WebDriver rdriver)
 	{
 		ldriver= rdriver;

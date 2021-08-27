@@ -4,11 +4,13 @@ import java.io.IOException;
 import java.util.concurrent.TimeUnit;
 
 import org.junit.Assert;
+import org.openqa.selenium.By;
 import org.testng.annotations.Test;
 
 
 import com.inetbanking.Utilities.XLUtility;
 import com.inetbanking.pageObjects.Ragister;
+
 
 public class TC_RagisterUser_004 extends BaseClass
 {
@@ -23,36 +25,32 @@ public class TC_RagisterUser_004 extends BaseClass
 		//driver.manage().window().maximize();
 		
 		String path  = "./src/test/java/com/inetbanking/testData/DDTestCase.xlsx";
-		XLUtility xlreader =new XLUtility(path);
+		XLUtility xlreader2 =new XLUtility(path);
 		
-		int rowcount = xlreader.getRowCount("Sheet3");
+		int rowcount = xlreader2.getRowCount("Sheet3");
 		System.out.println(rowcount);
-		int cellcount = xlreader.getCellCount("Sheet3", 1);
+		int cellcount = xlreader2.getCellCount("Sheet3", 1);
 		System.out.println(cellcount);
 		
 		Thread.sleep(3000);
-		
 
-		
-		
-		
 		for(int i=1; i<=3; i++)
 		{
 			driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 			
-			String First_Name = xlreader.getCellData("Sheet2", i, 0);
-			String Last_Name = xlreader.getCellData("Sheet2", i, 1);
-			String Address = xlreader.getCellData("Sheet2", i, 2);
-			String Language = xlreader.getCellData("Sheet2", i, 3);
-			String Skill = xlreader.getCellData("Sheet2", i, 4);
-			String Country = xlreader.getCellData("Sheet2", i, 5);
-			String SelectCountry = xlreader.getCellData("Sheet2", i, 6);
-			String DateBirthOfYear = xlreader.getCellData("Sheet2", i, 7);
-			String DateBirthOfMonth = xlreader.getCellData("Sheet2", i, 8);
-			String DateOfBirthDay = xlreader.getCellData("Sheet2", i, 9);
+			String First_Name = xlreader2.getCellData("Sheet2", i, 0);
+			String Last_Name = xlreader2.getCellData("Sheet2", i, 1);
+			String Address = xlreader2.getCellData("Sheet2", i, 2);
+			String Language = xlreader2.getCellData("Sheet2", i, 3);
+			String Skill = xlreader2.getCellData("Sheet2", i, 4);
+			String Country = xlreader2.getCellData("Sheet2", i, 5);
+			String SelectCountry = xlreader2.getCellData("Sheet2", i, 6);
+			String DateBirthOfYear = xlreader2.getCellData("Sheet2", i, 7);
+			String DateBirthOfMonth = xlreader2.getCellData("Sheet2", i, 8);
+			String DateOfBirthDay = xlreader2.getCellData("Sheet2", i, 9);
 			
-			String Password = xlreader.getCellData("Sheet2", i, 10);
-			String ConfirmPassword = xlreader.getCellData("Sheet2", i, 11);
+			String Password = xlreader2.getCellData("Sheet2", i, 10);
+			String ConfirmPassword = xlreader2.getCellData("Sheet2", i, 11);
 			
 			logger.info("Ragistration Started");
 			

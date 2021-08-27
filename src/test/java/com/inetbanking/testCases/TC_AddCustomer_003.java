@@ -23,7 +23,7 @@ public class TC_AddCustomer_003 extends BaseClass
 		
 		driver.get(baseURL);
 		logger.info("URL is Opened");
-		driver.manage().window().maximize();
+		
 
 		String path  = "./src/test/java/com/inetbanking/testData/DDTestCase.xlsx";
 		XLUtility xlreader =new XLUtility(path);

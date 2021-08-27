@@ -7,13 +7,13 @@
   <test thread-count="5" name="testOnChrome(failed)" verbose="0">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.inetbanking.testCases.TC_AddCustomer_003">
+      <class name="com.inetbanking.testCases.TC_RagisterUser_004">
         <methods>
           <include name="tearDown"/>
-          <include name="addNewCustomer"/>
           <include name="setUp"/>
+          <include name="ragisterNewCustomer"/>
         </methods>
-      </class> <!-- com.inetbanking.testCases.TC_AddCustomer_003 -->
+      </class> <!-- com.inetbanking.testCases.TC_RagisterUser_004 -->
     </classes>
   </test> <!-- testOnChrome(failed) -->
 </suite> <!-- Failed suite [inetBankingDemo] -->

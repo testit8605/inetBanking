@@ -15,15 +15,16 @@ public class TC_LoginTest_001 extends BaseClass
 	{
 		driver.get(baseURL);
 		logger.info("URL is Opened");
-		driver.manage().window().maximize();
+		
 		
 		LoginPage lp = new LoginPage(driver);
-		lp.setUserName(username);
+		lp.loginToDemoGuruApplication(username, password);
+		/*lp.setUserName(username);
 		logger.info("Entered Username");
 		lp.setPassword(password);
 		logger.info("Entered Password");
 		lp.clickSubmit();
-		logger.info("Clicked Login");
+		logger.info("Clicked Login");*/
 		
 		if(driver.getTitle().equals("Guru99 Bank Manager HomePage")) 
 		{
