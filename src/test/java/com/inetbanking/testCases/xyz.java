@@ -19,6 +19,8 @@ public class xyz
 		driver.findElement(By.xpath("//input[@placeholder='First Name']")).sendKeys("Akshay");
 		driver.findElement(By.xpath("//input[@placeholder='Last Name']")).sendKeys("Bhagat");
 		
+		// this is demo project
+		// this is demo project
 		
 	}
 	
