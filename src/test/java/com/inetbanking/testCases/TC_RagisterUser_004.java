@@ -1,23 +1,26 @@
 package com.inetbanking.testCases;
 
 import java.io.IOException;
-
+import java.util.concurrent.TimeUnit;
 
 import org.junit.Assert;
 import org.testng.annotations.Test;
 
-import com.demoAutomationTesting.pageObjects.Ragister;
+
 import com.inetbanking.Utilities.XLUtility;
+import com.inetbanking.pageObjects.Ragister;
 
 public class TC_RagisterUser_004 extends BaseClass
 {
 	@Test
 	public void ragisterNewCustomer() throws IOException, InterruptedException 
 	{
+	
+		
 		
 		driver.get(baseURL2);
 		logger.info("URL is Opened");
-		driver.manage().window().maximize();
+		//driver.manage().window().maximize();
 		
 		String path  = "./src/test/java/com/inetbanking/testData/DDTestCase.xlsx";
 		XLUtility xlreader =new XLUtility(path);
@@ -29,10 +32,13 @@ public class TC_RagisterUser_004 extends BaseClass
 		
 		Thread.sleep(3000);
 		
+
+		
 		
 		
 		for(int i=1; i<=3; i++)
 		{
+			driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 			
 			String First_Name = xlreader.getCellData("Sheet2", i, 0);
 			String Last_Name = xlreader.getCellData("Sheet2", i, 1);
@@ -48,9 +54,12 @@ public class TC_RagisterUser_004 extends BaseClass
 			String Password = xlreader.getCellData("Sheet2", i, 10);
 			String ConfirmPassword = xlreader.getCellData("Sheet2", i, 11);
 			
-			Ragister reg = new Ragister(driver);
-			
 			logger.info("Ragistration Started");
+			
+			Ragister reg = new Ragister(driver);
+			logger.info("Ragistration Started2");
+			
+			
 			reg.custFistName(First_Name);
 			reg.custLastName(Last_Name);
 			reg.custAddress(Address);
@@ -86,21 +95,7 @@ public class TC_RagisterUser_004 extends BaseClass
 				Assert.assertTrue(false);
 				logger.info("Registring customer fail");
 			}
-		
-			
-			
-			
+	
 		}
-		
-		
-		
-		
-		
-		
 	}
-	
-	
-	
-	
-
 }

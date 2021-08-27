@@ -2,32 +2,49 @@
 <testng-results ignored="0" total="1" passed="0" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-08-27T08:48:58Z" name="inetBankingDemo" finished-at="2021-08-27T08:49:11Z" duration-ms="12779">
+  <suite started-at="2021-08-27T09:11:33Z" name="Default suite" finished-at="2021-08-27T09:11:33Z" duration-ms="43">
     <groups>
     </groups>
-    <test started-at="2021-08-27T08:48:58Z" name="testOnChrome" finished-at="2021-08-27T08:49:11Z" duration-ms="12779">
+    <test started-at="2021-08-27T09:11:33Z" name="Default test" finished-at="2021-08-27T09:11:33Z" duration-ms="43">
       <class name="com.inetbanking.testCases.TC_RagisterUser_004">
-        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.inetbanking.testCases.TC_RagisterUser_004@6bbe85a8]" started-at="2021-08-27T08:48:58Z" name="setUp" finished-at="2021-08-27T08:49:00Z" duration-ms="2088" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method signature="ragisterNewCustomer()[pri:0, instance:com.inetbanking.testCases.TC_RagisterUser_004@6bbe85a8]" started-at="2021-08-27T08:49:00Z" name="ragisterNewCustomer" finished-at="2021-08-27T08:49:11Z" duration-ms="10463" status="FAIL">
-          <exception class="java.lang.NullPointerException">
+        <test-method signature="ragisterNewCustomer()[pri:0, instance:com.inetbanking.testCases.TC_RagisterUser_004@78e4deb0]" started-at="2021-08-27T09:11:33Z" name="ragisterNewCustomer" finished-at="2021-08-27T09:11:33Z" duration-ms="14" status="FAIL">
+          <exception class="java.lang.Error">
             <message>
-              <![CDATA[Cannot invoke "org.openqa.selenium.WebElement.getTagName()" because "element" is null]]>
+              <![CDATA[Unresolved compilation problems: 
+driver cannot be resolved to a variable
+logger cannot be resolved
+driver cannot be resolved
+baseURL2 cannot be resolved to a variable
+logger cannot be resolved
+driver cannot be resolved
+logger cannot be resolved
+The method randomString() is undefined for the type TC_RagisterUser_004
+The method randomString() is undefined for the type TC_RagisterUser_004
+logger cannot be resolved
+driver cannot be resolved
+logger cannot be resolved
+driver cannot be resolved to a variable
+logger cannot be resolved
+]]>
             </message>
             <full-stacktrace>
-              <![CDATA[java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebElement.getTagName()" because "element" is null
-at org.openqa.selenium.support.ui.Select.<init>(Select.java:45)
-at com.demoAutomationTesting.pageObjects.Ragister.<init>(Ragister.java:107)
-at com.inetbanking.testCases.TC_RagisterUser_004.ragisterNewCustomer(TC_RagisterUser_004.java:53)
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+driver cannot be resolved to a variable
+logger cannot be resolved
+driver cannot be resolved
+baseURL2 cannot be resolved to a variable
+logger cannot be resolved
+driver cannot be resolved
+logger cannot be resolved
+The method randomString() is undefined for the type TC_RagisterUser_004
+The method randomString() is undefined for the type TC_RagisterUser_004
+logger cannot be resolved
+driver cannot be resolved
+logger cannot be resolved
+driver cannot be resolved to a variable
+logger cannot be resolved
+
+at com.inetbanking.testCases.TC_RagisterUser_004.ragisterNewCustomer(TC_RagisterUser_004.java:19)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
 at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -55,15 +72,11 @@ at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
 at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
 ]]>
             </full-stacktrace>
-          </exception> <!-- java.lang.NullPointerException -->
+          </exception> <!-- java.lang.Error -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ragisterNewCustomer -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.inetbanking.testCases.TC_RagisterUser_004@6bbe85a8]" started-at="2021-08-27T08:49:11Z" name="tearDown" finished-at="2021-08-27T08:49:11Z" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
       </class> <!-- com.inetbanking.testCases.TC_RagisterUser_004 -->
-    </test> <!-- testOnChrome -->
-  </suite> <!-- inetBankingDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

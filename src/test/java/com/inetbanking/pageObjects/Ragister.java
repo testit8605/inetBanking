@@ -13,7 +13,7 @@ public class Ragister
 	
 	public Ragister(WebDriver rdriver)
 	{
-		ldriver = rdriver;
+		ldriver= rdriver;
 		PageFactory.initElements(rdriver, this);
 	}
 	

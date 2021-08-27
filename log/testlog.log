@@ -1289,3 +1289,22 @@
 2021-08-27 14:18:32,776 - ebanking -INFO - Started entering into loop
 2021-08-27 14:19:06,442 - ebanking -INFO - URL is Opened
 2021-08-27 14:19:11,449 - ebanking -INFO - Started entering into loop
+2021-08-27 14:29:03,698 - ebanking -INFO - URL is Opened
+2021-08-27 14:30:34,703 - ebanking -INFO - URL is Opened
+2021-08-27 14:30:39,488 - ebanking -INFO - Ragistration Started1
+2021-08-27 14:32:16,554 - ebanking -INFO - URL is Opened
+2021-08-27 14:33:44,755 - ebanking -INFO - URL is Opened
+2021-08-27 14:34:33,216 - ebanking -INFO - URL is Opened
+2021-08-27 14:35:41,622 - ebanking -INFO - URL is Opened
+2021-08-27 14:35:45,435 - ebanking -INFO - Ragistration Started2
+2021-08-27 14:36:13,264 - ebanking -INFO - URL is Opened
+2021-08-27 14:37:42,800 - ebanking -INFO - URL is Opened
+2021-08-27 14:37:44,406 - ebanking -INFO - Username entered
+2021-08-27 14:37:44,524 - ebanking -INFO - Password entered
+2021-08-27 14:37:46,982 - ebanking -INFO - Click on login
+2021-08-27 14:37:51,289 - ebanking -INFO - Click on add new customer
+2021-08-27 14:37:51,290 - ebanking -INFO - Adding customer details
+2021-08-27 14:38:04,393 - ebanking -INFO - Validation Started
+2021-08-27 14:38:04,427 - ebanking -INFO - Adding customer done
+2021-08-27 14:38:07,949 - ebanking -INFO - Click on add new customer
+2021-08-27 14:38:07,949 - ebanking -INFO - Adding customer details
