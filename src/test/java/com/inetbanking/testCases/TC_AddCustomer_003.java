@@ -23,7 +23,7 @@ public class TC_AddCustomer_003 extends BaseClass
 		
 		driver.get(baseURL);
 		logger.info("URL is Opened");
-		driver.manage().window().maximize();
+		
 
 		String path  = "./src/test/java/com/inetbanking/testData/DDTestCase.xlsx";
 		XLUtility xlreader =new XLUtility(path);
@@ -41,8 +41,6 @@ public class TC_AddCustomer_003 extends BaseClass
 		logger.info("Password entered");
 		lp.clickSubmit();
 		logger.info("Click on login");
-
-
 
 		Thread.sleep(3000);
 
