@@ -42,8 +42,6 @@ public class TC_AddCustomer_003 extends BaseClass
 		lp.clickSubmit();
 		logger.info("Click on login");
 
-
-
 		Thread.sleep(3000);
 
 		for(int i=1; i<=3; i++)

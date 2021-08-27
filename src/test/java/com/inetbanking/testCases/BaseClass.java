@@ -2,6 +2,7 @@ package com.inetbanking.testCases;
 
 import java.io.File;
 import java.io.IOException;
+import java.util.concurrent.TimeUnit;
 
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.lang3.RandomStringUtils;
@@ -64,6 +65,8 @@ public class BaseClass
 			WebDriverManager.edgedriver().setup();
 			driver = new EdgeDriver();
 		}
+		
+		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 
 		/*driver.get(baseURL);
 		logger.info("URL is Opened");
@@ -75,8 +78,8 @@ public class BaseClass
 	@AfterClass
 	public void tearDown()
 	{
-		driver.close();
-		driver.quit();
+		//driver.close();
+		//driver.quit();
 	}
 	
 	

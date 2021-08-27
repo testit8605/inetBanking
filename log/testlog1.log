@@ -1284,3 +1284,8 @@
 2021-08-25 16:21:44,311 [TestNG-tests-1] INFO ebanking - Password entered
 2021-08-25 16:21:44,326 [TestNG-tests-2] INFO ebanking - Password entered
 2021-08-25 16:21:45,055 [TestNG-tests-3] INFO ebanking - Click on login
+2021-08-27 14:17:13,694 [main] INFO ebanking - URL is Opened
+2021-08-27 14:18:28,741 [main] INFO ebanking - URL is Opened
+2021-08-27 14:18:32,776 [main] INFO ebanking - Started entering into loop
+2021-08-27 14:19:06,442 [main] INFO ebanking - URL is Opened
+2021-08-27 14:19:11,449 [main] INFO ebanking - Started entering into loop
